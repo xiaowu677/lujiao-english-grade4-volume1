@@ -11,6 +11,7 @@ class DeploymentTest(unittest.TestCase):
             encoding="utf-8"
         )
         self.assertIn("outputs/v2.1-*", workflow)
+        self.assertIn("enablement: true", workflow)
         self.assertIn("outputs/assets/audio/v2.1/en-GB-SoniaNeural", workflow)
         self.assertIn("find _site -name index.html", workflow)
         self.assertIn('"$(find _site -name index.html | wc -l)" -eq 8', workflow)
