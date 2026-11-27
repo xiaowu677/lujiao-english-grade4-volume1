@@ -1,0 +1,827 @@
+{
+  "version": "2.1",
+  "grade": 4,
+  "volume": "上册",
+  "publisher": "鲁教版",
+  "units": [
+    {
+      "id": "unit1",
+      "title": "School Life",
+      "titleZh": "校园生活",
+      "acceptance": {
+        "life": [
+          "These photos show scenes from everyday {{word}}.",
+          "这些照片展示了日常{{word}}中的场景。"
+        ],
+        "English": [
+          "Ms. Wang asks us to sing a song in {{word}}.",
+          "王老师让我们用{{word}}唱一首歌。"
+        ],
+        "girl": [
+          "A {{word}} in a yellow dress is waiting for her mother.",
+          "一位穿黄裙子的{{word}}正在等妈妈。"
+        ],
+        "classmate": [
+          "Ben sits next to me, so he is my {{word}}.",
+          "本坐在我旁边，所以他是我的{{word}}。"
+        ],
+        "everyone": [
+          "The teacher says hello to {{word}} in the classroom.",
+          "老师在教室里向{{word}}问好。"
+        ],
+        "subject": [
+          "Art is the {{word}} I enjoy most this term.",
+          "美术是我这学期最喜欢的{{word}}。"
+        ],
+        "Chinese": [
+          "We write a short poem in {{word}} class.",
+          "我们在{{word}}课上写一首短诗。"
+        ],
+        "maths": [
+          "We use numbers and shapes in {{word}}.",
+          "我们在{{word}}中使用数字和图形。"
+        ],
+        "also": [
+          "Tom likes football, and he {{word}} likes basketball.",
+          "汤姆喜欢足球，他{{word}}喜欢篮球。"
+        ],
+        "science": [
+          "We do a simple experiment in {{word}} class.",
+          "我们在{{word}}课上做一个简单的实验。"
+        ],
+        "IT": [
+          "We type a letter on a computer in {{word}} class.",
+          "我们在{{word}}课上用电脑打一封信。"
+        ],
+        "today": [
+          "We have a new book to read {{word}}.",
+          "{{word}}我们有一本新书要读。"
+        ],
+        "computer": [
+          "Mia uses a {{word}} to find a picture.",
+          "米娅用{{word}}查找图片。"
+        ],
+        "story": [
+          "Grandma reads a funny {{word}} to the children.",
+          "奶奶给孩子们读一个有趣的{{word}}。"
+        ]
+      },
+      "scenes": [
+        {
+          "id": 1,
+          "title": "开学第一天",
+          "subtitle": "A new school day",
+          "wordEns": ["life", "girl", "classmate", "everyone"],
+          "story": "A new school day begins. A girl smiles at Mia. Her classmate waves, and everyone says good morning. They talk about life at school.",
+          "storyZh": "新的上学日开始了。一个女孩向米娅微笑。她的同班同学挥挥手，每个人都说早上好。他们谈论学校生活。"
+        },
+        {
+          "id": 2,
+          "title": "上午的课程",
+          "subtitle": "Lessons in the classroom",
+          "wordEns": ["English", "subject", "Chinese", "maths"],
+          "story": "The first subject is English. The next subject is Chinese. In maths, the class counts apples. Mia says that every subject is interesting.",
+          "storyZh": "第一门科目是英语。下一门科目是汉语。数学课上，大家数苹果。米娅说每个科目都很有趣。"
+        },
+        {
+          "id": 3,
+          "title": "电脑教室",
+          "subtitle": "Science and computers",
+          "wordEns": ["also", "science", "IT", "today"],
+          "story": "Today the class goes to the computer room. They study science with a short video. In IT, Mia makes a poster. Tom also makes one.",
+          "storyZh": "今天全班去电脑教室。他们通过短视频学习科学。信息科技课上，米娅制作了一张海报。汤姆也制作了一张。"
+        },
+        {
+          "id": 4,
+          "title": "故事时间",
+          "subtitle": "A story after class",
+          "wordEns": ["computer", "story"],
+          "story": "After class, Mia uses a computer to find a story. The story is about a clever bird. She reads it to the class.",
+          "storyZh": "下课后，米娅用计算机找故事。故事讲的是一只聪明的鸟。她读给全班听。"
+        }
+      ]
+    },
+    {
+      "id": "unit2",
+      "title": "My Week",
+      "titleZh": "我的一周",
+      "acceptance": {
+        "week": [
+          "There are seven days in one {{word}}.",
+          "一个{{word}}有七天。"
+        ],
+        "Wednesday": [
+          "Our school library is closed every {{word}}.",
+          "我们学校图书馆每个{{word}}闭馆。"
+        ],
+        "with": [
+          "The word {{word}} means together with another person.",
+          "表达与另一个人相伴时，我们会用到{{word}}。"
+        ],
+        "Monday": [
+          "We have a music class on {{word}} morning.",
+          "我们{{word}}上午有一节音乐课。"
+        ],
+        "Friday": [
+          "The school art show opens on {{word}}.",
+          "学校美术展在{{word}}开幕。"
+        ],
+        "Thursday": [
+          "Lily has a swimming lesson on {{word}}.",
+          "莉莉{{word}}有一节游泳课。"
+        ],
+        "Tuesday": [
+          "Our class reads together every {{word}}.",
+          "我们班每个{{word}}一起阅读。"
+        ],
+        "dance": [
+          "The children {{word}} around the garden in spring.",
+          "春天，孩子们在花园里{{word}}。"
+        ],
+        "club": [
+          "Mia joins the reading {{word}} after school.",
+          "米娅放学后加入阅读{{word}}。"
+        ],
+        "piano": [
+          "Tom plays the {{word}} for his family.",
+          "汤姆为家人弹{{word}}。"
+        ],
+        "Saturday": [
+          "We visit the science museum on {{word}}.",
+          "我们{{word}}去参观科学博物馆。"
+        ],
+        "lesson": [
+          "The English {{word}} starts at nine.",
+          "英语{{word}}九点开始。"
+        ],
+        "Sunday": [
+          "My family takes a walk in the park on {{word}}.",
+          "我的家人{{word}}去公园散步。"
+        ],
+        "visit": [
+          "We {{word}} our neighbour after lunch.",
+          "午饭后，我们去{{word}}邻居。"
+        ],
+        "grandparent": [
+          "My {{word}} makes dumplings with me.",
+          "我的{{word}}和我一起包饺子。"
+        ]
+      },
+      "scenes": [
+        {
+          "id": 1,
+          "title": "周一到周三",
+          "subtitle": "The first school days",
+          "wordEns": ["week", "Monday", "Tuesday", "Wednesday"],
+          "story": "A busy week begins on Monday. Mia reads a book on Tuesday. On Wednesday, she brings it back to the library.",
+          "storyZh": "忙碌的一周从星期一开始。米娅在星期二读了一本书。星期三，她把书还回图书馆。"
+        },
+        {
+          "id": 2,
+          "title": "周四到周日",
+          "subtitle": "From school to the weekend",
+          "wordEns": ["Thursday", "Friday", "Saturday", "Sunday"],
+          "story": "Thursday is quiet after school. Friday brings the art show. On Saturday, Mia visits a museum. Sunday is a day for family.",
+          "storyZh": "星期四放学后很安静。星期五迎来了美术展。星期六，米娅参观博物馆。星期日是陪伴家人的一天。"
+        },
+        {
+          "id": 3,
+          "title": "兴趣课",
+          "subtitle": "Music and dance",
+          "wordEns": ["dance", "club", "piano", "lesson"],
+          "story": "At the music club, children dance to a happy song. Mia has a piano lesson next. She plays one tune for the club.",
+          "storyZh": "在音乐俱乐部，孩子们随着欢快的歌曲跳舞。米娅接下来有一节钢琴课。她为俱乐部弹了一首曲子。"
+        },
+        {
+          "id": 4,
+          "title": "周末探望",
+          "subtitle": "A family visit",
+          "wordEns": ["with", "visit", "grandparent"],
+          "story": "Mia goes with her parents to visit her grandparent. They cook, talk and take a walk together.",
+          "storyZh": "米娅和父母一起去看望祖辈。他们一起做饭、聊天和散步。"
+        }
+      ]
+    },
+    {
+      "id": "unit3",
+      "title": "Seasons",
+      "titleZh": "四季",
+      "acceptance": {
+        "colourful": [
+          "The garden is {{word}} after the spring rain.",
+          "春雨过后，花园变得{{word}}。"
+        ],
+        "season": [
+          "Winter is a quiet {{word}} in my town.",
+          "在我的小镇，冬天是一个安静的{{word}}。"
+        ],
+        "spring": [
+          "Bees come out when {{word}} arrives.",
+          "{{word}}到来时，蜜蜂出来了。"
+        ],
+        "summer": [
+          "The days are long in {{word}}.",
+          "{{word}}白天很长。"
+        ],
+        "autumn": [
+          "We pick apples in {{word}}.",
+          "我们在{{word}}摘苹果。"
+        ],
+        "winter": [
+          "The lake is cold in {{word}}.",
+          "{{word}}湖水很冷。"
+        ],
+        "clever": [
+          "The {{word}} child solves the puzzle quickly.",
+          "这个{{word}}的孩子很快解开了拼图。"
+        ],
+        "cool": [
+          "The water in the pool feels {{word}}.",
+          "游泳池里的水感觉很{{word}}。"
+        ],
+        "warm": [
+          "The sun makes the room {{word}}.",
+          "阳光让房间变得{{word}}。"
+        ],
+        "plant": [
+          "We {{word}} seeds in the school garden.",
+          "我们在学校花园里{{word}}种子。"
+        ],
+        "hot": [
+          "The soup is too {{word}} to drink now.",
+          "这汤现在太{{word}}，还不能喝。"
+        ],
+        "flower": [
+          "A yellow {{word}} opens beside the gate.",
+          "门旁开着一朵黄色的{{word}}。"
+        ],
+        "tree": [
+          "A bird builds a nest in the tall {{word}}.",
+          "一只鸟在高大的{{word}}上筑巢。"
+        ],
+        "cold": [
+          "My hands are {{word}} without gloves.",
+          "不戴手套，我的手很{{word}}。"
+        ],
+        "snow": [
+          "White {{word}} covers the roof.",
+          "白色的{{word}}覆盖了屋顶。"
+        ],
+        "fly": [
+          "Geese {{word}} south before winter.",
+          "冬天到来前，大雁向南方{{word}}。"
+        ],
+        "kite": [
+          "The wind lifts my {{word}} high.",
+          "风把我的{{word}}吹得很高。"
+        ],
+        "swim": [
+          "We {{word}} in the pool after school.",
+          "放学后，我们在泳池里{{word}}。"
+        ],
+        "ski": [
+          "They {{word}} down the mountain in winter.",
+          "冬天，他们沿着山坡{{word}}而下。"
+        ],
+        "climb": [
+          "We {{word}} the steps to the temple.",
+          "我们沿着台阶{{word}}寺庙。"
+        ],
+        "hill": [
+          "A sheep is eating grass on the {{word}}.",
+          "一只羊正在{{word}}上吃草。"
+        ]
+      },
+      "scenes": [
+        {
+          "id": 1,
+          "title": "四季的变化",
+          "subtitle": "A colourful year",
+          "wordEns": ["colourful", "season", "spring", "summer", "autumn", "winter"],
+          "story": "Each season brings a colourful change. Spring is fresh, summer is bright and autumn is golden. Winter turns the town white.",
+          "storyZh": "每个季节都带来五彩缤纷的变化。春天清新，夏天明亮，秋天金黄。冬天把小镇变成白色。"
+        },
+        {
+          "id": 2,
+          "title": "花园与山坡",
+          "subtitle": "Plants around us",
+          "wordEns": ["plant", "flower", "tree", "hill"],
+          "story": "We plant seeds beside the old tree. A flower opens near the gate, and sheep walk up the green hill.",
+          "storyZh": "我们在老树旁种下种子。门边开出一朵花，羊群走上绿色的小山。"
+        },
+        {
+          "id": 3,
+          "title": "天气的感觉",
+          "subtitle": "Warm and cold days",
+          "wordEns": ["cool", "warm", "hot", "cold", "snow"],
+          "story": "The morning air is cool. By noon, the sun is hot. The room stays warm in the afternoon. At night it is cold, and snow begins to fall.",
+          "storyZh": "清晨的空气很凉爽。到了中午，太阳很热。下午房间仍然温暖。夜里很冷，开始下雪。"
+        },
+        {
+          "id": 4,
+          "title": "户外活动",
+          "subtitle": "Fun on the hill",
+          "wordEns": ["clever", "fly", "kite", "swim", "ski", "climb"],
+          "story": "A clever child makes a kite and watches it fly. In summer we swim; in winter we ski and climb the snowy hill.",
+          "storyZh": "一个聪明的孩子做了一只风筝，看着它飞翔。夏天我们游泳，冬天我们滑雪并爬上雪山。"
+        }
+      ]
+    },
+    {
+      "id": "unit4",
+      "title": "Weather",
+      "titleZh": "天气",
+      "acceptance": {
+        "weather": [
+          "The {{word}} is cold and windy this morning.",
+          "今天早上{{word}}寒冷又多风。"
+        ],
+        "sunny": [
+          "The sky is {{word}} after the rain.",
+          "雨后的天空{{word}}。"
+        ],
+        "cloudy": [
+          "The sky becomes {{word}} before the storm.",
+          "暴风雨来临前，天空变得{{word}}。"
+        ],
+        "windy": [
+          "The beach is {{word}} in the afternoon.",
+          "下午的海滩{{word}}。"
+        ],
+        "put on": [
+          "Please {{word}} a warm hat before you leave.",
+          "离开前请{{word}}一顶暖和的帽子。"
+        ],
+        "can't": [
+          "I {{word}} open the window because it is locked.",
+          "因为窗户锁上了，我{{word}}打开它。"
+        ],
+        "report": [
+          "The weather {{word}} says it will snow tomorrow.",
+          "天气{{word}}说明天会下雪。"
+        ],
+        "snowy": [
+          "The children make a snowman on a {{word}} day.",
+          "孩子们在{{word}}的日子堆雪人。"
+        ],
+        "foggy": [
+          "The road is hard to see on a {{word}} morning.",
+          "在{{word}}的早晨，道路很难看清。"
+        ],
+        "rainy": [
+          "We read books at home on a {{word}} day.",
+          "在{{word}}的日子，我们在家读书。"
+        ],
+        "all": [
+          "{{word}} the players wear blue shirts.",
+          "{{word}}球员都穿蓝色球衣。"
+        ],
+        "all right": [
+          "When everything is fine, we can say {{word}}.",
+          "一切正常时，我们可以说“{{word}}”。"
+        ],
+        "ping-pong": [
+          "We play {{word}} in the school gym.",
+          "我们在学校体育馆打{{word}}。"
+        ],
+        "rain": [
+          "Heavy {{word}} fills the street with water.",
+          "{{word}}使街道积满了水。"
+        ],
+        "sorry": [
+          "I am {{word}} for losing your pen.",
+          "我弄丢了你的钢笔，很{{word}}。"
+        ],
+        "take": [
+          "Please {{word}} your bag with you.",
+          "请随身{{word}}你的书包。"
+        ],
+        "care": [
+          "We {{word}} for the rabbit every day.",
+          "我们每天{{word}}兔子。"
+        ],
+        "take care": [
+          "Please {{word}} when you cross the busy road.",
+          "过繁忙的马路时，请{{word}}。"
+        ],
+        "Lhasa": [
+          "The train to {{word}} leaves at six.",
+          "开往{{word}}的火车六点出发。"
+        ]
+      },
+      "scenes": [
+        {
+          "id": 1,
+          "title": "天气播报",
+          "subtitle": "Checking the sky",
+          "wordEns": ["weather", "sunny", "cloudy", "windy", "report"],
+          "story": "The morning is sunny, but the sky soon becomes cloudy. The weather report says it will be windy. Mia watches the report before school.",
+          "storyZh": "早晨天气晴朗，但天空很快变得多云。天气预报说今天会多风。米娅上学前看了天气播报。"
+        },
+        {
+          "id": 2,
+          "title": "出门准备",
+          "subtitle": "Dressing for the day",
+          "wordEns": ["put on", "can't", "snowy", "foggy", "rainy"],
+          "story": "On a snowy day, Mia will put on a thick coat. It is foggy, so the bus driver can't go fast. On a rainy day, she stays inside.",
+          "storyZh": "下雪天，米娅穿上厚外套。天气有雾，所以公交车不能开快。下雨天，她留在室内。"
+        },
+        {
+          "id": 3,
+          "title": "雨天球馆",
+          "subtitle": "Games after the rain",
+          "wordEns": ["all", "all right", "ping-pong", "rain"],
+          "story": "Rain falls in the afternoon. All the students wait in the gym. They play ping-pong, and everyone is all right.",
+          "storyZh": "下午下雨了。所有学生都在体育馆等待。他们打乒乓球，每个人都安然无恙。"
+        },
+        {
+          "id": 4,
+          "title": "旅行叮嘱",
+          "subtitle": "A trip to Lhasa",
+          "wordEns": ["sorry", "take", "care", "take care", "Lhasa"],
+          "story": "Mia is sorry that she cannot go to Lhasa today. Grandpa tells her to take a map and care for her ticket. She says she will take care on the train.",
+          "storyZh": "米娅很抱歉今天不能去拉萨。爷爷让她带上地图，并保管好车票。她说会在火车上保重。"
+        }
+      ]
+    },
+    {
+      "id": "unit5",
+      "title": "Hobbies",
+      "titleZh": "兴趣爱好",
+      "acceptance": {
+        "different": [
+          "Each student has a {{word}} favourite sport.",
+          "每个学生都有{{word}}最喜欢的运动。"
+        ],
+        "hobby": [
+          "Taking photos is my new {{word}}.",
+          "拍照是我的新{{word}}。"
+        ],
+        "run": [
+          "We {{word}} around the track twice.",
+          "我们绕着跑道{{word}}两圈。"
+        ],
+        "basketball": [
+          "He throws the {{word}} into the basket.",
+          "他把{{word}}投进篮筐。"
+        ],
+        "skip": [
+          "The girls {{word}} rope in the playground.",
+          "女孩们在操场上{{word}}绳。"
+        ],
+        "join": [
+          "Would you like to {{word}} our art group?",
+          "你想{{word}}我们的美术小组吗？"
+        ],
+        "get ready": [
+          "We {{word}} for the school show after lunch.",
+          "午饭后，我们为学校演出{{word}}。"
+        ],
+        "party": [
+          "The class plans a surprise {{word}} for our teacher.",
+          "全班为老师策划一个惊喜{{word}}。"
+        ],
+        "well": [
+          "She plays the violin very {{word}}.",
+          "她小提琴拉得很{{word}}。"
+        ],
+        "dancer": [
+          "The {{word}} practises every afternoon.",
+          "这位{{word}}每天下午练习。"
+        ],
+        "drum": [
+          "He hits the {{word}} in time with the song.",
+          "他随着歌曲的节奏敲击{{word}}。"
+        ],
+        "paper-cut": [
+          "Mia gives me a red {{word}} of a rabbit.",
+          "米娅送给我一张兔子形状的红色{{word}}。"
+        ],
+        "paper-cutting": [
+          "Our class learns {{word}} from a local artist.",
+          "我们班向一位当地艺术家学习{{word}}。"
+        ],
+        "uncle": [
+          "My {{word}} drives us to the train station.",
+          "我的{{word}}开车送我们去火车站。"
+        ],
+        "aunt": [
+          "My {{word}} bakes a cake for the family.",
+          "我的{{word}}为家人烤蛋糕。"
+        ]
+      },
+      "scenes": [
+        {
+          "id": 1,
+          "title": "不同爱好",
+          "subtitle": "Everyone has a favourite",
+          "wordEns": ["different", "hobby", "run", "basketball", "skip"],
+          "story": "Every child has a different hobby. Mia likes to run. Ben plays basketball, and Lily can skip all afternoon.",
+          "storyZh": "每个孩子都有不同的业余爱好。米娅喜欢跑步。本打篮球，莉莉能跳一下午绳。"
+        },
+        {
+          "id": 2,
+          "title": "才艺表演",
+          "subtitle": "Getting ready for the show",
+          "wordEns": ["join", "get ready", "party", "well"],
+          "story": "Mia decides to join the class show. Everyone must get ready after lunch. They practise well, then enjoy a small party.",
+          "storyZh": "米娅决定参加班级演出。午饭后每个人都必须准备好。他们认真练习，然后享受一场小派对。"
+        },
+        {
+          "id": 3,
+          "title": "音乐与剪纸",
+          "subtitle": "Art in many forms",
+          "wordEns": ["dancer", "drum", "paper-cut", "paper-cutting"],
+          "story": "A dancer moves to the beat of a drum. An artist makes a paper-cut of a red flower. Paper-cutting is a traditional art.",
+          "storyZh": "一位舞者随着鼓点舞动。一位艺术家剪出一朵红花。剪纸是一种传统艺术。"
+        },
+        {
+          "id": 4,
+          "title": "家人来访",
+          "subtitle": "A family afternoon",
+          "wordEns": ["uncle", "aunt"],
+          "story": "Mia's uncle brings fruit, and her aunt brings a cake. They stay for tea and talk about their hobbies.",
+          "storyZh": "米娅的叔叔带来了水果，阿姨带来了蛋糕。他们留下来喝茶，并谈论各自的爱好。"
+        }
+      ]
+    },
+    {
+      "id": "unit6",
+      "title": "People and Places",
+      "titleZh": "人物与场所",
+      "acceptance": {
+        "member": [
+          "Every {{word}} brings a book to the reading club.",
+          "每位{{word}}都带一本书来阅读俱乐部。"
+        ],
+        "has": [
+          "The third-person singular form of have is {{word}}.",
+          "have 的第三人称单数形式是 {{word}}。"
+        ],
+        "hair": [
+          "Mia ties her long {{word}} with a blue ribbon.",
+          "米娅用蓝色丝带扎起长{{word}}。"
+        ],
+        "there": [
+          "Look over {{word}}, the science book is on the desk.",
+          "看{{word}}，科学书在桌子上。"
+        ],
+        "over there": [
+          "The music room is {{word}}, beside the library.",
+          "音乐教室在{{word}}，就在图书馆旁边。"
+        ],
+        "cheer": [
+          "The students {{word}} for the runners.",
+          "学生们为跑步者{{word}}。"
+        ],
+        "him": [
+          "Tom needs a pencil, so I give one to {{word}}.",
+          "汤姆需要一支铅笔，所以我给{{word}}一支。"
+        ],
+        "which": [
+          "{{word}} picture do you like, the red one or the blue one?",
+          "你更喜欢{{word}}图片，红色那张还是蓝色那张？"
+        ],
+        "wear": [
+          "She will {{word}} a red dress to the party.",
+          "她会{{word}}一条红裙子去参加派对。"
+        ],
+        "work": [
+          "The old clock is a beautiful piece of {{word}}.",
+          "这座旧钟是一件美丽的{{word}}。"
+        ],
+        "paint": [
+          "We {{word}} a wall with bright colours.",
+          "我们用明亮的颜色{{word}}一面墙。"
+        ],
+        "artist": [
+          "The {{word}} draws a bird in the sand.",
+          "这位{{word}}在沙地上画了一只鸟。"
+        ],
+        "businessman": [
+          "The {{word}} opens a small shop near the station.",
+          "这位{{word}}在车站附近开了一家小店。"
+        ],
+        "farmer": [
+          "The {{word}} feeds the chickens every morning.",
+          "这位{{word}}每天早上喂鸡。"
+        ],
+        "hospital": [
+          "The nurse walks to the {{word}} at seven.",
+          "护士七点走向{{word}}。"
+        ],
+        "man": [
+          "A tall {{word}} carries the box for us.",
+          "一位高个子{{word}}帮我们搬箱子。"
+        ],
+        "policeman": [
+          "The {{word}} directs traffic at the crossing.",
+          "这位{{word}}在十字路口指挥交通。"
+        ],
+        "police": [
+          "The {{word}} ask people to stay safe.",
+          "{{word}}提醒人们注意安全。"
+        ],
+        "station": [
+          "The bus {{word}} is across from the post office.",
+          "公交{{word}}在邮局对面。"
+        ],
+        "police station": [
+          "The lost child waits at the {{word}}.",
+          "走失的孩子在{{word}}等待。"
+        ],
+        "hotel": [
+          "We sleep in a quiet {{word}} near the sea.",
+          "我们睡在海边一家安静的{{word}}里。"
+        ],
+        "grandpa": [
+          "My {{word}} reads the newspaper after breakfast.",
+          "我的{{word}}早饭后看报纸。"
+        ],
+        "gardener": [
+          "The {{word}} waters the flowers at noon.",
+          "这位{{word}}中午给花浇水。"
+        ],
+        "park": [
+          "We fly a kite in the {{word}} on Sunday.",
+          "星期日，我们在{{word}}放风筝。"
+        ],
+        "woman": [
+          "The {{word}} in the green jacket is our coach.",
+          "穿绿色夹克的{{word}}是我们的教练。"
+        ]
+      },
+      "scenes": [
+        {
+          "id": 1,
+          "title": "俱乐部成员",
+          "subtitle": "Meeting the club",
+          "wordEns": ["member", "has", "hair", "there", "over there", "cheer", "him"],
+          "story": "A new member has a red bag and long hair. Her bag is over there, beside the door. We cheer for her, and Mia shows him where to sit.",
+          "storyZh": "一位新成员有红色书包和长发。她的书包在那边，就在门旁。我们为她加油，米娅告诉他坐哪里。"
+        },
+        {
+          "id": 2,
+          "title": "美术作品",
+          "subtitle": "Choosing a picture",
+          "wordEns": ["which", "wear", "work", "paint", "artist"],
+          "story": "The artist will show which painting is new. Mia will wear a blue shirt and paint a flower. Her work hangs by the window.",
+          "storyZh": "艺术家将展示哪幅画是新的。米娅会穿蓝色衬衫并画一朵花。她的作品挂在窗边。"
+        },
+        {
+          "id": 3,
+          "title": "城市工作者",
+          "subtitle": "People who help us",
+          "wordEns": ["businessman", "farmer", "hospital", "man", "policeman", "police"],
+          "story": "A businessman opens the shop. A farmer brings vegetables to the hospital. A tall man asks a policeman for help, and the police show him the way.",
+          "storyZh": "一位商人打开商店。一位农民把蔬菜送到医院。一位高个子男人向警察求助，警察给他指路。"
+        },
+        {
+          "id": 4,
+          "title": "社区散步",
+          "subtitle": "Around the neighbourhood",
+          "wordEns": ["station", "police station", "hotel", "grandpa", "gardener", "park", "woman"],
+          "story": "Grandpa walks past the station and the police station. He meets a gardener near the hotel. A woman waves to them from the park.",
+          "storyZh": "爷爷走过车站和警察局。他在宾馆附近遇见一位园丁。一位女子从公园向他们挥手。"
+        }
+      ]
+    },
+    {
+      "id": "unit7",
+      "title": "Communication",
+      "titleZh": "沟通与联系",
+      "acceptance": {
+        "way": [
+          "A smile is a friendly {{word}} to greet someone.",
+          "微笑是向别人问好的一种友好{{word}}。"
+        ],
+        "communication": [
+          "Good {{word}} makes group work easier.",
+          "良好的{{word}}让小组合作更轻松。"
+        ],
+        "speak": [
+          "Please {{word}} to the visitors in English.",
+          "请用英语对来访者{{word}}。"
+        ],
+        "may": [
+          "You {{word}} use my ruler during the lesson.",
+          "上课时你{{word}}用我的尺子。"
+        ],
+        "hold": [
+          "They will {{word}} a meeting in the library.",
+          "他们将在图书馆{{word}}会议。"
+        ],
+        "hold on": [
+          "Please {{word}} while I write down the number.",
+          "请{{word}}，我把号码记下来。"
+        ],
+        "year": [
+          "Our school has a sports day every {{word}}.",
+          "我们学校每{{word}}举行一次运动会。"
+        ],
+        "invite": [
+          "We {{word}} our parents to the class show.",
+          "我们{{word}}父母参加班级演出。"
+        ],
+        "invitation": [
+          "Mia opens the {{word}} and reads the time.",
+          "米娅打开{{word}}，看了看时间。"
+        ],
+        "card": [
+          "Tom writes a thank-you {{word}} for his teacher.",
+          "汤姆给老师写了一张感谢{{word}}。"
+        ],
+        "idea": [
+          "Mia has a good {{word}} for the school fair.",
+          "米娅对学校集市有一个好{{word}}。"
+        ],
+        "write": [
+          "Please {{word}} your answer on the paper.",
+          "请把答案{{word}}纸上。"
+        ],
+        "email": [
+          "I send a short {{word}} to my cousin.",
+          "我给表姐发了一封简短的{{word}}。"
+        ],
+        "get ready": [
+          "We {{word}} for the picnic before nine.",
+          "九点前我们为野餐{{word}}。"
+        ],
+        "send": [
+          "Please {{word}} the photo to Grandpa.",
+          "请把照片{{word}}给爷爷。"
+        ],
+        "online": [
+          "The class meets {{word}} on Friday afternoon.",
+          "星期五下午，全班{{word}}上课。"
+        ],
+        "call": [
+          "I will {{word}} my friend after dinner.",
+          "晚饭后，我会给我的朋友{{word}}。"
+        ],
+        "begin": [
+          "The concert will {{word}} at seven o'clock.",
+          "音乐会将在七点{{word}}。"
+        ],
+        "horse": [
+          "A white {{word}} stands under the tree.",
+          "一匹白色的{{word}}站在树下。"
+        ],
+        "racing": [
+          "The school hosts a boat {{word}} on the river.",
+          "学校在河上举办划船{{word}}。"
+        ],
+        "horse racing": [
+          "We watch {{word}} at the sports park.",
+          "我们在体育公园观看{{word}}。"
+        ],
+        "crosstalk": [
+          "The {{word}} makes the children laugh.",
+          "这段{{word}}让孩子们开怀大笑。"
+        ],
+        "sure": [
+          "Are you {{word}} that the library is open?",
+          "你{{word}}图书馆开着吗？"
+        ],
+        "letter": [
+          "Mia writes a {{word}} to her pen friend.",
+          "米娅给笔友写了一封{{word}}。"
+        ]
+      },
+      "scenes": [
+        {
+          "id": 1,
+          "title": "友好沟通",
+          "subtitle": "Clear and kind words",
+          "wordEns": ["way", "communication", "speak", "may"],
+          "story": "Mia thinks of a kind way to welcome the visitors. Good communication starts with listening. The visitors may ask questions, and the students speak slowly.",
+          "storyZh": "米娅想用一种友好的方式欢迎来访者。良好的沟通从倾听开始。来访者可以提问，学生们慢慢地说。"
+        },
+        {
+          "id": 2,
+          "title": "邀请活动",
+          "subtitle": "Planning a meeting",
+          "wordEns": ["hold", "hold on", "year", "invite", "invitation"],
+          "story": "The club will hold a party this year. Mia invites three new members and gives each one an invitation. Please hold on while she finds one more.",
+          "storyZh": "俱乐部今年将举行派对。米娅邀请三位新成员，并给每人一张邀请函。她再找一张时，请大家稍等。"
+        },
+        {
+          "id": 3,
+          "title": "准备信件",
+          "subtitle": "Cards and emails",
+          "wordEns": ["card", "idea", "write", "email", "get ready"],
+          "story": "Mia has an idea for the class card. She will write a note and send an email. Everyone must get ready before the teacher arrives.",
+          "storyZh": "米娅对班级卡片有了一个主意。她要写一段话并发一封电子邮件。老师来之前，每个人都必须准备好。"
+        },
+        {
+          "id": 4,
+          "title": "周末联系",
+          "subtitle": "Calls and weekend fun",
+          "wordEns": ["send", "online", "call", "begin", "horse", "racing", "horse racing", "crosstalk", "sure", "letter"],
+          "story": "On Saturday, Mia will send a letter and call her cousin. The family meets online before the horse racing begins. A white horse races past. Later they watch crosstalk, and Mia is sure everyone had fun.",
+          "storyZh": "星期六，米娅会寄一封信并给表姐打电话。赛马开始前，家人在线相聚。一匹白马跑过。后来他们观看相声，米娅确信每个人都玩得很开心。"
+        }
+      ]
+    }
+  ]
+}

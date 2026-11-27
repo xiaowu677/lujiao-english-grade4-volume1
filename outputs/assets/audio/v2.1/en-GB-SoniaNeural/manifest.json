@@ -1,0 +1,3843 @@
+{
+  "version": 1,
+  "voice": "en-GB-SoniaNeural",
+  "rate": "-8%",
+  "count": 426,
+  "items": [
+    {
+      "id": "word-0fe5925fd020824b",
+      "kind": "word",
+      "text": "English",
+      "file": "word-0fe5925fd020824b.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "word-2c1f20758c075234",
+      "kind": "word",
+      "text": "maths",
+      "file": "word-2c1f20758c075234.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "word-30be78edba6a2555",
+      "kind": "word",
+      "text": "Chinese",
+      "file": "word-30be78edba6a2555.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "word-313b18650f441592",
+      "kind": "word",
+      "text": "classmate",
+      "file": "word-313b18650f441592.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "word-448b77be440e5410",
+      "kind": "word",
+      "text": "story",
+      "file": "word-448b77be440e5410.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "word-508649cd16130261",
+      "kind": "word",
+      "text": "IT",
+      "file": "word-508649cd16130261.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "word-9d032650618b468b",
+      "kind": "word",
+      "text": "girl",
+      "file": "word-9d032650618b468b.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "word-b883f8c351394b05",
+      "kind": "word",
+      "text": "today",
+      "file": "word-b883f8c351394b05.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "word-c6019cdda99d7932",
+      "kind": "word",
+      "text": "everyone",
+      "file": "word-c6019cdda99d7932.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "word-d306a6de58e03038",
+      "kind": "word",
+      "text": "subject",
+      "file": "word-d306a6de58e03038.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "word-e6380696a1d44dcf",
+      "kind": "word",
+      "text": "also",
+      "file": "word-e6380696a1d44dcf.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "word-f630bdf52262ec57",
+      "kind": "word",
+      "text": "computer",
+      "file": "word-f630bdf52262ec57.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "word-f636795eb1a3c252",
+      "kind": "word",
+      "text": "science",
+      "file": "word-f636795eb1a3c252.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "word-fabfbb0a71666350",
+      "kind": "word",
+      "text": "life",
+      "file": "word-fabfbb0a71666350.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "word-08f9e4edba9be58e",
+      "kind": "word",
+      "text": "Monday",
+      "file": "word-08f9e4edba9be58e.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "word-1261ff16600362db",
+      "kind": "word",
+      "text": "Friday",
+      "file": "word-1261ff16600362db.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "word-19de083ecb5dce3b",
+      "kind": "word",
+      "text": "Thursday",
+      "file": "word-19de083ecb5dce3b.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "word-29acbb97f402c05a",
+      "kind": "word",
+      "text": "visit",
+      "file": "word-29acbb97f402c05a.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "word-39c5d38a2b421637",
+      "kind": "word",
+      "text": "with",
+      "file": "word-39c5d38a2b421637.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "word-675618dad24ac75c",
+      "kind": "word",
+      "text": "Saturday",
+      "file": "word-675618dad24ac75c.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "word-6d8c6b51ec9b6c65",
+      "kind": "word",
+      "text": "dance",
+      "file": "word-6d8c6b51ec9b6c65.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "word-894b5f52414f4a60",
+      "kind": "word",
+      "text": "grandparent",
+      "file": "word-894b5f52414f4a60.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "word-a69fb30f1cc4e8ec",
+      "kind": "word",
+      "text": "lesson",
+      "file": "word-a69fb30f1cc4e8ec.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "word-abf443775c54488e",
+      "kind": "word",
+      "text": "Sunday",
+      "file": "word-abf443775c54488e.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "word-adb0b291e89fbfb9",
+      "kind": "word",
+      "text": "piano",
+      "file": "word-adb0b291e89fbfb9.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "word-b46bbfd88ab7e490",
+      "kind": "word",
+      "text": "club",
+      "file": "word-b46bbfd88ab7e490.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "word-c5657c5be52aa0c1",
+      "kind": "word",
+      "text": "week",
+      "file": "word-c5657c5be52aa0c1.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "word-edffaff40a529b45",
+      "kind": "word",
+      "text": "Tuesday",
+      "file": "word-edffaff40a529b45.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "word-f208f6f8acf3964e",
+      "kind": "word",
+      "text": "Wednesday",
+      "file": "word-f208f6f8acf3964e.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "word-0368b05c28aad2c7",
+      "kind": "word",
+      "text": "warm",
+      "file": "word-0368b05c28aad2c7.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "word-3c40906cbd9df4e0",
+      "kind": "word",
+      "text": "autumn",
+      "file": "word-3c40906cbd9df4e0.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "word-453c3d99df3f68d6",
+      "kind": "word",
+      "text": "kite",
+      "file": "word-453c3d99df3f68d6.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "word-47b63ed146588cf6",
+      "kind": "word",
+      "text": "snow",
+      "file": "word-47b63ed146588cf6.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "word-4f157ac197905d5d",
+      "kind": "word",
+      "text": "season",
+      "file": "word-4f157ac197905d5d.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "word-5e1523b01e1735c3",
+      "kind": "word",
+      "text": "hill",
+      "file": "word-5e1523b01e1735c3.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "word-5e27bbe2abac0407",
+      "kind": "word",
+      "text": "tree",
+      "file": "word-5e27bbe2abac0407.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "word-6d1986f8b7dac22d",
+      "kind": "word",
+      "text": "hot",
+      "file": "word-6d1986f8b7dac22d.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "word-705c082a6ee4cdc1",
+      "kind": "word",
+      "text": "colourful",
+      "file": "word-705c082a6ee4cdc1.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "word-72580034f9c86955",
+      "kind": "word",
+      "text": "swim",
+      "file": "word-72580034f9c86955.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "word-8350b5951d650e81",
+      "kind": "word",
+      "text": "summer",
+      "file": "word-8350b5951d650e81.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "word-883eba6b91421f40",
+      "kind": "word",
+      "text": "cold",
+      "file": "word-883eba6b91421f40.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "word-99d7d076ddf221be",
+      "kind": "word",
+      "text": "ski",
+      "file": "word-99d7d076ddf221be.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "word-9efa3759c9564dd6",
+      "kind": "word",
+      "text": "fly",
+      "file": "word-9efa3759c9564dd6.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "word-ad42f8ee226f6b06",
+      "kind": "word",
+      "text": "winter",
+      "file": "word-ad42f8ee226f6b06.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "word-b03f02593c0d8fba",
+      "kind": "word",
+      "text": "cool",
+      "file": "word-b03f02593c0d8fba.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "word-b3614afed0450403",
+      "kind": "word",
+      "text": "spring",
+      "file": "word-b3614afed0450403.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "word-c1c8225e1fbd60d6",
+      "kind": "word",
+      "text": "plant",
+      "file": "word-c1c8225e1fbd60d6.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "word-e02a31e7a72472be",
+      "kind": "word",
+      "text": "flower",
+      "file": "word-e02a31e7a72472be.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "word-e8b00a6cfd52e289",
+      "kind": "word",
+      "text": "climb",
+      "file": "word-e8b00a6cfd52e289.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "word-fcb113c092688ea5",
+      "kind": "word",
+      "text": "clever",
+      "file": "word-fcb113c092688ea5.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "word-0bc212c298984da0",
+      "kind": "word",
+      "text": "take care",
+      "file": "word-0bc212c298984da0.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "word-0d4a0b37efa333e3",
+      "kind": "word",
+      "text": "rain",
+      "file": "word-0d4a0b37efa333e3.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "word-1793f36941c15468",
+      "kind": "word",
+      "text": "Lhasa",
+      "file": "word-1793f36941c15468.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "word-1d4e86d46b4deb80",
+      "kind": "word",
+      "text": "take",
+      "file": "word-1d4e86d46b4deb80.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "word-22a10b82d6e1e05c",
+      "kind": "word",
+      "text": "sunny",
+      "file": "word-22a10b82d6e1e05c.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "word-2bbbfe7dc231adf9",
+      "kind": "word",
+      "text": "can't",
+      "file": "word-2bbbfe7dc231adf9.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "word-2c8e6edc747ac0e5",
+      "kind": "word",
+      "text": "windy",
+      "file": "word-2c8e6edc747ac0e5.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "word-2ce79a013a41ab19",
+      "kind": "word",
+      "text": "foggy",
+      "file": "word-2ce79a013a41ab19.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "word-443d4c5fd2e7f78a",
+      "kind": "word",
+      "text": "ping-pong",
+      "file": "word-443d4c5fd2e7f78a.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "word-4dca75e6c5f80835",
+      "kind": "word",
+      "text": "sorry",
+      "file": "word-4dca75e6c5f80835.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "word-5b345d8f9982de55",
+      "kind": "word",
+      "text": "report",
+      "file": "word-5b345d8f9982de55.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "word-7c77d8bd4ff7c206",
+      "kind": "word",
+      "text": "all right",
+      "file": "word-7c77d8bd4ff7c206.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "word-83b126ffb91079b7",
+      "kind": "word",
+      "text": "weather",
+      "file": "word-83b126ffb91079b7.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "word-8efec3493b385150",
+      "kind": "word",
+      "text": "rainy",
+      "file": "word-8efec3493b385150.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "word-aad95d2f2ac667a6",
+      "kind": "word",
+      "text": "all",
+      "file": "word-aad95d2f2ac667a6.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "word-b836bfda8018a1f9",
+      "kind": "word",
+      "text": "put on",
+      "file": "word-b836bfda8018a1f9.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "word-bc64c0fcd85b7144",
+      "kind": "word",
+      "text": "cloudy",
+      "file": "word-bc64c0fcd85b7144.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "word-dbcc986e0ed8d0d4",
+      "kind": "word",
+      "text": "care",
+      "file": "word-dbcc986e0ed8d0d4.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "word-f5284846c8d16448",
+      "kind": "word",
+      "text": "snowy",
+      "file": "word-f5284846c8d16448.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "word-043c664b005c3f5b",
+      "kind": "word",
+      "text": "skip",
+      "file": "word-043c664b005c3f5b.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "word-2693b3b4a7705f17",
+      "kind": "word",
+      "text": "get ready",
+      "file": "word-2693b3b4a7705f17.mp3",
+      "sources": [
+        "v2.1-unit5",
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "word-2802e98b37f522fc",
+      "kind": "word",
+      "text": "well",
+      "file": "word-2802e98b37f522fc.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "word-357666de89303d39",
+      "kind": "word",
+      "text": "aunt",
+      "file": "word-357666de89303d39.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "word-3d55d1d9c8cb2ee5",
+      "kind": "word",
+      "text": "hobby",
+      "file": "word-3d55d1d9c8cb2ee5.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "word-4b2b5ce00fed737a",
+      "kind": "word",
+      "text": "dancer",
+      "file": "word-4b2b5ce00fed737a.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "word-6e2f0d3aa4fa79da",
+      "kind": "word",
+      "text": "party",
+      "file": "word-6e2f0d3aa4fa79da.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "word-6f8f4466679095d6",
+      "kind": "word",
+      "text": "paper-cut",
+      "file": "word-6f8f4466679095d6.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "word-8dc04de053f25716",
+      "kind": "word",
+      "text": "different",
+      "file": "word-8dc04de053f25716.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "word-9f9ed70bd30bb9f3",
+      "kind": "word",
+      "text": "join",
+      "file": "word-9f9ed70bd30bb9f3.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "word-a15301b42e822504",
+      "kind": "word",
+      "text": "uncle",
+      "file": "word-a15301b42e822504.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "word-b88a27079c23da0d",
+      "kind": "word",
+      "text": "run",
+      "file": "word-b88a27079c23da0d.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "word-c1bac6772a0b7b20",
+      "kind": "word",
+      "text": "drum",
+      "file": "word-c1bac6772a0b7b20.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "word-c995e2e947b4c4b5",
+      "kind": "word",
+      "text": "paper-cutting",
+      "file": "word-c995e2e947b4c4b5.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "word-dabeddbd7db9ca7d",
+      "kind": "word",
+      "text": "basketball",
+      "file": "word-dabeddbd7db9ca7d.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "word-04575841556e5707",
+      "kind": "word",
+      "text": "grandpa",
+      "file": "word-04575841556e5707.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "word-0852379ac74896ea",
+      "kind": "word",
+      "text": "station",
+      "file": "word-0852379ac74896ea.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "word-0d8180a0cb9051d9",
+      "kind": "word",
+      "text": "park",
+      "file": "word-0d8180a0cb9051d9.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "word-1b45873ae99afcf1",
+      "kind": "word",
+      "text": "police station",
+      "file": "word-1b45873ae99afcf1.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "word-2441b55fb504f676",
+      "kind": "word",
+      "text": "cheer",
+      "file": "word-2441b55fb504f676.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "word-2c6bcc9790694cf5",
+      "kind": "word",
+      "text": "hair",
+      "file": "word-2c6bcc9790694cf5.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "word-367cdd5bbc4d0776",
+      "kind": "word",
+      "text": "has",
+      "file": "word-367cdd5bbc4d0776.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "word-39a57841cc9df524",
+      "kind": "word",
+      "text": "businessman",
+      "file": "word-39a57841cc9df524.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "word-3eb6527ae31c254f",
+      "kind": "word",
+      "text": "artist",
+      "file": "word-3eb6527ae31c254f.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "word-606dae7546760116",
+      "kind": "word",
+      "text": "police",
+      "file": "word-606dae7546760116.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "word-618bc2fd79d9c8c5",
+      "kind": "word",
+      "text": "wear",
+      "file": "word-618bc2fd79d9c8c5.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "word-68f89b67eb377216",
+      "kind": "word",
+      "text": "over there",
+      "file": "word-68f89b67eb377216.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "word-7019419f304e83ce",
+      "kind": "word",
+      "text": "hospital",
+      "file": "word-7019419f304e83ce.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "word-76b40dae476389a2",
+      "kind": "word",
+      "text": "him",
+      "file": "word-76b40dae476389a2.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "word-7da3db4213921f36",
+      "kind": "word",
+      "text": "man",
+      "file": "word-7da3db4213921f36.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "word-7fea780d308f9254",
+      "kind": "word",
+      "text": "hotel",
+      "file": "word-7fea780d308f9254.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "word-8542b363bd932b9c",
+      "kind": "word",
+      "text": "there",
+      "file": "word-8542b363bd932b9c.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "word-a9c603bec9a218d6",
+      "kind": "word",
+      "text": "member",
+      "file": "word-a9c603bec9a218d6.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "word-b5e9abc6c6c881b4",
+      "kind": "word",
+      "text": "farmer",
+      "file": "word-b5e9abc6c6c881b4.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "word-bdca5e4bf7d299ca",
+      "kind": "word",
+      "text": "which",
+      "file": "word-bdca5e4bf7d299ca.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "word-c815b8452732b95e",
+      "kind": "word",
+      "text": "woman",
+      "file": "word-c815b8452732b95e.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "word-e810ddcf8b50e061",
+      "kind": "word",
+      "text": "gardener",
+      "file": "word-e810ddcf8b50e061.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "word-eaa9d97a0c6c0d65",
+      "kind": "word",
+      "text": "policeman",
+      "file": "word-eaa9d97a0c6c0d65.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "word-f2760d2fd1cd62bb",
+      "kind": "word",
+      "text": "work",
+      "file": "word-f2760d2fd1cd62bb.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "word-fcc05bcab83fc8f2",
+      "kind": "word",
+      "text": "paint",
+      "file": "word-fcc05bcab83fc8f2.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "word-15b201e2cca8d854",
+      "kind": "word",
+      "text": "horse",
+      "file": "word-15b201e2cca8d854.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "word-18b6ab33777a7cdb",
+      "kind": "word",
+      "text": "horse racing",
+      "file": "word-18b6ab33777a7cdb.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "word-31b6bb2604b33882",
+      "kind": "word",
+      "text": "invite",
+      "file": "word-31b6bb2604b33882.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "word-4ad118fe4e71d273",
+      "kind": "word",
+      "text": "sure",
+      "file": "word-4ad118fe4e71d273.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "word-50cabacb41949a85",
+      "kind": "word",
+      "text": "communication",
+      "file": "word-50cabacb41949a85.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "word-55920a8c94aa977a",
+      "kind": "word",
+      "text": "send",
+      "file": "word-55920a8c94aa977a.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "word-5dfcf9008d9d5f3a",
+      "kind": "word",
+      "text": "year",
+      "file": "word-5dfcf9008d9d5f3a.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "word-685f6803020f96b5",
+      "kind": "word",
+      "text": "hold on",
+      "file": "word-685f6803020f96b5.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "word-6da04e1d16aa731a",
+      "kind": "word",
+      "text": "card",
+      "file": "word-6da04e1d16aa731a.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "word-77f0d03258698202",
+      "kind": "word",
+      "text": "call",
+      "file": "word-77f0d03258698202.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "word-8368de289893b566",
+      "kind": "word",
+      "text": "idea",
+      "file": "word-8368de289893b566.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "word-8d32e38d4af5e068",
+      "kind": "word",
+      "text": "racing",
+      "file": "word-8d32e38d4af5e068.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "word-980d4ee7d4efe03a",
+      "kind": "word",
+      "text": "begin",
+      "file": "word-980d4ee7d4efe03a.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "word-98c2543fbcdbbc74",
+      "kind": "word",
+      "text": "online",
+      "file": "word-98c2543fbcdbbc74.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "word-98ffb59f0f164900",
+      "kind": "word",
+      "text": "email",
+      "file": "word-98ffb59f0f164900.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "word-ae7387e02f57a077",
+      "kind": "word",
+      "text": "may",
+      "file": "word-ae7387e02f57a077.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "word-e0bc00ab6ccc0a63",
+      "kind": "word",
+      "text": "crosstalk",
+      "file": "word-e0bc00ab6ccc0a63.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "word-e4a74f7c902423f2",
+      "kind": "word",
+      "text": "invitation",
+      "file": "word-e4a74f7c902423f2.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "word-ea2408288f6fa8ab",
+      "kind": "word",
+      "text": "write",
+      "file": "word-ea2408288f6fa8ab.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "word-f20a7b5e48a1e8ad",
+      "kind": "word",
+      "text": "letter",
+      "file": "word-f20a7b5e48a1e8ad.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "word-f32fc8f0ad305df7",
+      "kind": "word",
+      "text": "way",
+      "file": "word-f32fc8f0ad305df7.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "word-f511cf9e8b066c3c",
+      "kind": "word",
+      "text": "hold",
+      "file": "word-f511cf9e8b066c3c.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "word-f810631fd249af97",
+      "kind": "word",
+      "text": "speak",
+      "file": "word-f810631fd249af97.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "training-036542cd135db4c9",
+      "kind": "training",
+      "text": "We read an English story in class today.",
+      "file": "training-036542cd135db4c9.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "training-26b1157ced1b51fe",
+      "kind": "training",
+      "text": "Science is my favourite subject at school.",
+      "file": "training-26b1157ced1b51fe.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "training-37cc33e379ecd07b",
+      "kind": "training",
+      "text": "Grandpa tells an interesting story after dinner.",
+      "file": "training-37cc33e379ecd07b.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "training-4209b4fe14a654b2",
+      "kind": "training",
+      "text": "Everyone in our group wants to try the game.",
+      "file": "training-4209b4fe14a654b2.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "training-5032344b73556003",
+      "kind": "training",
+      "text": "We solve number problems in maths class.",
+      "file": "training-5032344b73556003.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "training-58e2e137050836ac",
+      "kind": "training",
+      "text": "Our science lesson explores plants and animals today.",
+      "file": "training-58e2e137050836ac.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "training-8b4fdf18b75c025d",
+      "kind": "training",
+      "text": "Our computer helps us finish the report quickly.",
+      "file": "training-8b4fdf18b75c025d.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "training-9f57fd2fe44c058c",
+      "kind": "training",
+      "text": "We practise reading Chinese every morning before class.",
+      "file": "training-9f57fd2fe44c058c.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "training-b556003f1cab0a2d",
+      "kind": "training",
+      "text": "Today we have a new lesson about computers.",
+      "file": "training-b556003f1cab0a2d.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "training-cb81a10e47701502",
+      "kind": "training",
+      "text": "My classmate helps me carry these heavy books.",
+      "file": "training-cb81a10e47701502.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "training-d2f1dcc02b41384b",
+      "kind": "training",
+      "text": "Reading and playing are important parts of school life.",
+      "file": "training-d2f1dcc02b41384b.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "training-f030a6795de0c857",
+      "kind": "training",
+      "text": "We learn to use computers safely in IT class.",
+      "file": "training-f030a6795de0c857.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "training-fa37d4ca9189c857",
+      "kind": "training",
+      "text": "The girl beside me shares her pencils.",
+      "file": "training-fa37d4ca9189c857.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "training-fb22c164f7c06f8e",
+      "kind": "training",
+      "text": "She likes music and also enjoys drawing pictures.",
+      "file": "training-fb22c164f7c06f8e.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "training-18088d810ff611b8",
+      "kind": "training",
+      "text": "Our first class on Monday begins at eight.",
+      "file": "training-18088d810ff611b8.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "training-1c823ec9b6630e51",
+      "kind": "training",
+      "text": "The children dance happily to the lively music.",
+      "file": "training-1c823ec9b6630e51.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "training-2bec52286275d776",
+      "kind": "training",
+      "text": "She has piano lessons every Tuesday evening.",
+      "file": "training-2bec52286275d776.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "training-415b6ae972c24ef9",
+      "kind": "training",
+      "text": "Our art club meets in the classroom every Tuesday.",
+      "file": "training-415b6ae972c24ef9.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "training-454151aa1098bf56",
+      "kind": "training",
+      "text": "She practises the piano for twenty minutes daily.",
+      "file": "training-454151aa1098bf56.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "training-46318fbcade953b4",
+      "kind": "training",
+      "text": "We finish school early on Friday afternoon.",
+      "file": "training-46318fbcade953b4.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "training-5bc26ec2fc680e5e",
+      "kind": "training",
+      "text": "We play basketball on Wednesday after school.",
+      "file": "training-5bc26ec2fc680e5e.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "training-62ef44e1988156fe",
+      "kind": "training",
+      "text": "Our art club meets on Thursday after class.",
+      "file": "training-62ef44e1988156fe.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "training-69ce159dfb1696c5",
+      "kind": "training",
+      "text": "We visit our grandparents every Sunday afternoon.",
+      "file": "training-69ce159dfb1696c5.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "training-6b19add2cc05b421",
+      "kind": "training",
+      "text": "I go to school with my best friend.",
+      "file": "training-6b19add2cc05b421.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "training-8bfce2c486793faf",
+      "kind": "training",
+      "text": "My grandparent tells me stories about the old days.",
+      "file": "training-8bfce2c486793faf.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "training-90c1984d0179f130",
+      "kind": "training",
+      "text": "Our music lesson begins at ten o'clock.",
+      "file": "training-90c1984d0179f130.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "training-bfbf262bc7afc34d",
+      "kind": "training",
+      "text": "We have a family dinner every Sunday evening.",
+      "file": "training-bfbf262bc7afc34d.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "training-f5cd09a15f90d926",
+      "kind": "training",
+      "text": "We visit the park every Saturday morning.",
+      "file": "training-f5cd09a15f90d926.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "training-f62d29885e3de5bc",
+      "kind": "training",
+      "text": "We have five English lessons this week.",
+      "file": "training-f62d29885e3de5bc.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "training-05075ed33ec0a06e",
+      "kind": "training",
+      "text": "My brother flies a red kite in the park.",
+      "file": "training-05075ed33ec0a06e.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "training-17feaa81344c4654",
+      "kind": "training",
+      "text": "The colourful flowers make our garden look beautiful.",
+      "file": "training-17feaa81344c4654.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "training-183f9089e1a7c40d",
+      "kind": "training",
+      "text": "Spring is my favourite season of the year.",
+      "file": "training-183f9089e1a7c40d.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "training-2f08737f77891a9b",
+      "kind": "training",
+      "text": "They climb the hill to watch the sunrise.",
+      "file": "training-2f08737f77891a9b.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "training-30c8f9eb0a77cc7c",
+      "kind": "training",
+      "text": "We often swim in the river during summer.",
+      "file": "training-30c8f9eb0a77cc7c.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "training-3d04e1f3a659ac43",
+      "kind": "training",
+      "text": "The evening air feels cool after the rain.",
+      "file": "training-3d04e1f3a659ac43.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "training-40cd5afb78346d6a",
+      "kind": "training",
+      "text": "The clever girl answers every question confidently.",
+      "file": "training-40cd5afb78346d6a.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "training-4de9b8868da05d53",
+      "kind": "training",
+      "text": "Birds fly high above the green hills.",
+      "file": "training-4de9b8868da05d53.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "training-6be1a631ca0996d8",
+      "kind": "training",
+      "text": "The flowers begin to open in early spring.",
+      "file": "training-6be1a631ca0996d8.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "training-6e09ccc66dbedaf1",
+      "kind": "training",
+      "text": "The children swim in the lake every summer.",
+      "file": "training-6e09ccc66dbedaf1.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "training-768b32d830ea04f0",
+      "kind": "training",
+      "text": "We plant young trees near the school gate.",
+      "file": "training-768b32d830ea04f0.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "training-7d79a27a6e91fdb4",
+      "kind": "training",
+      "text": "Spring brings warm sunshine to our small town.",
+      "file": "training-7d79a27a6e91fdb4.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "training-851de60eba4969a5",
+      "kind": "training",
+      "text": "The wind feels cold on this winter morning.",
+      "file": "training-851de60eba4969a5.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "training-a6c84587e33bd1ea",
+      "kind": "training",
+      "text": "A small house stands on the green hill.",
+      "file": "training-a6c84587e33bd1ea.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "training-b184c2d32348e889",
+      "kind": "training",
+      "text": "We wear warm coats throughout the cold winter.",
+      "file": "training-b184c2d32348e889.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "training-bae52ac66cc729e2",
+      "kind": "training",
+      "text": "Snow covers the garden after a quiet night.",
+      "file": "training-bae52ac66cc729e2.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "training-c999eb79a2c44ba0",
+      "kind": "training",
+      "text": "The leaves turn golden in the cool autumn.",
+      "file": "training-c999eb79a2c44ba0.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "training-d217dee4c51ac279",
+      "kind": "training",
+      "text": "An old tree stands beside our village school.",
+      "file": "training-d217dee4c51ac279.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "training-d5c5fb4b58bc64b5",
+      "kind": "training",
+      "text": "A red flower grows beside the kitchen window.",
+      "file": "training-d5c5fb4b58bc64b5.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "training-d8b14ca49c8fc002",
+      "kind": "training",
+      "text": "We ski down the snowy hill each winter.",
+      "file": "training-d8b14ca49c8fc002.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "training-f58b81062c77b765",
+      "kind": "training",
+      "text": "The summer afternoon is too hot for running.",
+      "file": "training-f58b81062c77b765.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "training-031e567563bc9a5a",
+      "kind": "training",
+      "text": "The weather report says tomorrow will be rainy.",
+      "file": "training-031e567563bc9a5a.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "training-258a4284d4c30e12",
+      "kind": "training",
+      "text": "Do not worry; everything will be all right.",
+      "file": "training-258a4284d4c30e12.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "training-322af584cd96e2e2",
+      "kind": "training",
+      "text": "It is windy near the river today.",
+      "file": "training-322af584cd96e2e2.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "training-3e1e7ee1e0ddd284",
+      "kind": "training",
+      "text": "We play ping-pong after school every Friday.",
+      "file": "training-3e1e7ee1e0ddd284.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "training-64b095f0c43445f7",
+      "kind": "training",
+      "text": "Please take this book to your teacher.",
+      "file": "training-64b095f0c43445f7.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "training-8a75b3edca00830d",
+      "kind": "training",
+      "text": "It is foggy, so drivers must drive slowly.",
+      "file": "training-8a75b3edca00830d.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "training-8ae2a71c97fe260c",
+      "kind": "training",
+      "text": "It is sunny, so we play outside.",
+      "file": "training-8ae2a71c97fe260c.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "training-8c218e75e7ac5118",
+      "kind": "training",
+      "text": "We visit Lhasa by train during the summer holiday.",
+      "file": "training-8c218e75e7ac5118.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "training-a8bec6b468331d94",
+      "kind": "training",
+      "text": "Grandma and I care for the garden together.",
+      "file": "training-a8bec6b468331d94.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "training-b317d4325bcaede7",
+      "kind": "training",
+      "text": "Put on your coat before going outside.",
+      "file": "training-b317d4325bcaede7.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "training-b7ed950baf0cdef7",
+      "kind": "training",
+      "text": "I am sorry for being late this morning.",
+      "file": "training-b7ed950baf0cdef7.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "training-bf5b193b3cfc4bfc",
+      "kind": "training",
+      "text": "I can't go outside because it is raining.",
+      "file": "training-bf5b193b3cfc4bfc.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "training-c1b2963016b5240e",
+      "kind": "training",
+      "text": "All the students join the music club.",
+      "file": "training-c1b2963016b5240e.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "training-c7cc27846b91ce77",
+      "kind": "training",
+      "text": "Take care on your way home tonight.",
+      "file": "training-c7cc27846b91ce77.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "training-ce9fee78cf6f5ac2",
+      "kind": "training",
+      "text": "The sky is cloudy before the evening rain.",
+      "file": "training-ce9fee78cf6f5ac2.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "training-d335d0410017d940",
+      "kind": "training",
+      "text": "The snowy road is quiet early this morning.",
+      "file": "training-d335d0410017d940.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "training-e420d46934019ebd",
+      "kind": "training",
+      "text": "The weather changes quickly in early spring.",
+      "file": "training-e420d46934019ebd.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "training-e486051f6faa167e",
+      "kind": "training",
+      "text": "Heavy rain falls on the roof all night.",
+      "file": "training-e486051f6faa167e.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "training-e980a20381a34f70",
+      "kind": "training",
+      "text": "We stay inside on this rainy afternoon.",
+      "file": "training-e980a20381a34f70.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "training-08ca59c68d01d88c",
+      "kind": "training",
+      "text": "The young dancer practises in the studio daily.",
+      "file": "training-08ca59c68d01d88c.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "training-33f93f6328ef6dd6",
+      "kind": "training",
+      "text": "My aunt visits us every Saturday afternoon.",
+      "file": "training-33f93f6328ef6dd6.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "training-3c0a829e3f4f4570",
+      "kind": "training",
+      "text": "Paper-cutting is an interesting traditional art form.",
+      "file": "training-3c0a829e3f4f4570.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "training-4a53989e87dca921",
+      "kind": "training",
+      "text": "The boys play basketball after their last lesson.",
+      "file": "training-4a53989e87dca921.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "training-88de6fc401b6af3c",
+      "kind": "training",
+      "text": "She dances well in the school talent show.",
+      "file": "training-88de6fc401b6af3c.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "training-8c7d701d2d7577e6",
+      "kind": "training",
+      "text": "Our classmates hold a birthday party this Friday.",
+      "file": "training-8c7d701d2d7577e6.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "training-a4b8aeaf6f8aef68",
+      "kind": "training",
+      "text": "We run around the playground every morning.",
+      "file": "training-a4b8aeaf6f8aef68.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "training-c294d4575726facb",
+      "kind": "training",
+      "text": "Everyone has different hobbies after school.",
+      "file": "training-c294d4575726facb.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "training-c4c65fb180578cc4",
+      "kind": "training",
+      "text": "We get ready for school before eight o'clock.",
+      "file": "training-c4c65fb180578cc4.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "training-c4f376ba09f6f78a",
+      "kind": "training",
+      "text": "She makes a paper-cut for the art show.",
+      "file": "training-c4f376ba09f6f78a.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "training-c72f218f1ca3a2c0",
+      "kind": "training",
+      "text": "I want to join the school music club.",
+      "file": "training-c72f218f1ca3a2c0.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "training-d06650df3061aee1",
+      "kind": "training",
+      "text": "Painting is my favourite hobby on weekends.",
+      "file": "training-d06650df3061aee1.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "training-db89a9907c56864e",
+      "kind": "training",
+      "text": "My uncle teaches me to play the piano.",
+      "file": "training-db89a9907c56864e.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "training-e9f07d70f971165b",
+      "kind": "training",
+      "text": "He plays the drum in our music group.",
+      "file": "training-e9f07d70f971165b.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "training-ff3b12aa39df6174",
+      "kind": "training",
+      "text": "The girls skip together during their morning break.",
+      "file": "training-ff3b12aa39df6174.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "training-023d47d585a4b393",
+      "kind": "training",
+      "text": "The woman in the blue coat is our teacher.",
+      "file": "training-023d47d585a4b393.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "training-1a0f11a98776d811",
+      "kind": "training",
+      "text": "Children play happily in the local park.",
+      "file": "training-1a0f11a98776d811.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "training-1c58931170210e14",
+      "kind": "training",
+      "text": "We wait for the train at the station.",
+      "file": "training-1c58931170210e14.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "training-1de9f6809394cb11",
+      "kind": "training",
+      "text": "This colourful painting is her best work.",
+      "file": "training-1de9f6809394cb11.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "training-37a011be6d062255",
+      "kind": "training",
+      "text": "The police arrived quickly after the phone call.",
+      "file": "training-37a011be6d062255.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "training-396db06f1d38e8dd",
+      "kind": "training",
+      "text": "Which club would you like to join?",
+      "file": "training-396db06f1d38e8dd.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "training-472a6be797076fbe",
+      "kind": "training",
+      "text": "Grandpa waters the flowers every sunny morning.",
+      "file": "training-472a6be797076fbe.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "training-556abf1f955e5abc",
+      "kind": "training",
+      "text": "We wear warm coats on snowy winter days.",
+      "file": "training-556abf1f955e5abc.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "training-5b3de9de8004edb6",
+      "kind": "training",
+      "text": "The farmer grows vegetables in the green field.",
+      "file": "training-5b3de9de8004edb6.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "training-6603cc57235e48f2",
+      "kind": "training",
+      "text": "We stay in a small hotel beside the river.",
+      "file": "training-6603cc57235e48f2.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "training-69df476f361c5d07",
+      "kind": "training",
+      "text": "She has a new bicycle and a piano.",
+      "file": "training-69df476f361c5d07.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "training-7f143a572c1e40a4",
+      "kind": "training",
+      "text": "We cheer for our team during the match.",
+      "file": "training-7f143a572c1e40a4.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "training-856a55037699e8ae",
+      "kind": "training",
+      "text": "Your schoolbag is over there by the window.",
+      "file": "training-856a55037699e8ae.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "training-8687cdf78bbd2496",
+      "kind": "training",
+      "text": "The police station is near our school.",
+      "file": "training-8687cdf78bbd2496.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "training-892d287a3c96d8cc",
+      "kind": "training",
+      "text": "The businessman visits our town every month.",
+      "file": "training-892d287a3c96d8cc.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "training-93c277a0373a1887",
+      "kind": "training",
+      "text": "I saw him beside the school gate.",
+      "file": "training-93c277a0373a1887.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "training-9c66656b2e8fcc66",
+      "kind": "training",
+      "text": "My aunt works in the city hospital.",
+      "file": "training-9c66656b2e8fcc66.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "training-b84c137779384ac1",
+      "kind": "training",
+      "text": "The artist paints the sunny hills beautifully.",
+      "file": "training-b84c137779384ac1.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "training-c54f5c880cd0dcba",
+      "kind": "training",
+      "text": "The gardener plants flowers along the path.",
+      "file": "training-c54f5c880cd0dcba.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "training-cf7a2e407d824ff4",
+      "kind": "training",
+      "text": "Every member of our club helps plan activities.",
+      "file": "training-cf7a2e407d824ff4.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "training-dbdebc79da7192f3",
+      "kind": "training",
+      "text": "Her long hair moves gently in the wind.",
+      "file": "training-dbdebc79da7192f3.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "training-dd2a742b3b6fa754",
+      "kind": "training",
+      "text": "A tall man helps us cross the road.",
+      "file": "training-dd2a742b3b6fa754.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "training-e27eebc26ce8b594",
+      "kind": "training",
+      "text": "A policeman helps the lost child get home.",
+      "file": "training-e27eebc26ce8b594.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "training-e47f752aede88815",
+      "kind": "training",
+      "text": "The gardener is working over there near the trees.",
+      "file": "training-e47f752aede88815.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "training-f008c991c3f5b090",
+      "kind": "training",
+      "text": "We paint flowers and trees in art class.",
+      "file": "training-f008c991c3f5b090.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "training-01672fad0b17e2fc",
+      "kind": "training",
+      "text": "We will hold a party in the classroom.",
+      "file": "training-01672fad0b17e2fc.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "training-08d57d1a90e15abd",
+      "kind": "training",
+      "text": "Are you sure about the party's start time?",
+      "file": "training-08d57d1a90e15abd.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "training-0c9ed51e89160fec",
+      "kind": "training",
+      "text": "I will send the invitation card tomorrow morning.",
+      "file": "training-0c9ed51e89160fec.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "training-1ab57c4aeaf4fdcf",
+      "kind": "training",
+      "text": "I invite my classmates to the art show.",
+      "file": "training-1ab57c4aeaf4fdcf.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "training-213712f55572c3f1",
+      "kind": "training",
+      "text": "Clear communication helps classmates work together well.",
+      "file": "training-213712f55572c3f1.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "training-240620feb6434fbb",
+      "kind": "training",
+      "text": "Horse racing is exciting to watch.",
+      "file": "training-240620feb6434fbb.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "training-3515f70f83458569",
+      "kind": "training",
+      "text": "Grandpa writes a letter to his old friend.",
+      "file": "training-3515f70f83458569.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "training-43e096693d8927de",
+      "kind": "training",
+      "text": "That is a clever idea for the party.",
+      "file": "training-43e096693d8927de.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "training-454effeec218a3a2",
+      "kind": "training",
+      "text": "Please hold on while I find the teacher.",
+      "file": "training-454effeec218a3a2.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "training-4f27db67f919127e",
+      "kind": "training",
+      "text": "Please speak slowly and clearly to the class.",
+      "file": "training-4f27db67f919127e.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "training-562c6fd969b747e1",
+      "kind": "training",
+      "text": "Email is a quick way to send messages.",
+      "file": "training-562c6fd969b747e1.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "training-6dbb5a2f85e436e8",
+      "kind": "training",
+      "text": "Crosstalk makes the whole audience laugh loudly.",
+      "file": "training-6dbb5a2f85e436e8.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "training-81445b87f866122d",
+      "kind": "training",
+      "text": "She sends an invitation to every club member.",
+      "file": "training-81445b87f866122d.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "training-99f81f655a7c1be7",
+      "kind": "training",
+      "text": "We sometimes watch horse racing on television.",
+      "file": "training-99f81f655a7c1be7.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "training-a0a9f9a73a322478",
+      "kind": "training",
+      "text": "I sent an email to my English teacher.",
+      "file": "training-a0a9f9a73a322478.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "training-a1a4fda736c413b5",
+      "kind": "training",
+      "text": "I made a birthday card for my aunt.",
+      "file": "training-a1a4fda736c413b5.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "training-cc92c8e4a8f3fdbb",
+      "kind": "training",
+      "text": "We often study English online at weekends.",
+      "file": "training-cc92c8e4a8f3fdbb.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "training-ce7e4fd7c9a53d12",
+      "kind": "training",
+      "text": "You may borrow this book after class.",
+      "file": "training-ce7e4fd7c9a53d12.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "training-d79648e87b97c3e5",
+      "kind": "training",
+      "text": "We have two singing contests each year.",
+      "file": "training-d79648e87b97c3e5.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "training-dfffb6f087fe7cb3",
+      "kind": "training",
+      "text": "We get ready for the online lesson early.",
+      "file": "training-dfffb6f087fe7cb3.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "training-f7c0473e791c2396",
+      "kind": "training",
+      "text": "I will call my aunt after dinner tonight.",
+      "file": "training-f7c0473e791c2396.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "training-fcef72cda0ceea01",
+      "kind": "training",
+      "text": "A brown horse runs across the green field.",
+      "file": "training-fcef72cda0ceea01.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "training-fd6d1cf332e21807",
+      "kind": "training",
+      "text": "Our class will begin at eight o'clock.",
+      "file": "training-fd6d1cf332e21807.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "training-ff2d8541142528f9",
+      "kind": "training",
+      "text": "Please write your name at the top.",
+      "file": "training-ff2d8541142528f9.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "acceptance-0c82210914ae303d",
+      "kind": "acceptance",
+      "text": "We write a short poem in Chinese class.",
+      "file": "acceptance-0c82210914ae303d.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "acceptance-1d74e0769c5abcdc",
+      "kind": "acceptance",
+      "text": "We have a new book to read today.",
+      "file": "acceptance-1d74e0769c5abcdc.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "acceptance-53521b1fe0af79b1",
+      "kind": "acceptance",
+      "text": "The teacher says hello to everyone in the classroom.",
+      "file": "acceptance-53521b1fe0af79b1.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "acceptance-56c33efe28ef925c",
+      "kind": "acceptance",
+      "text": "Mia uses a computer to find a picture.",
+      "file": "acceptance-56c33efe28ef925c.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "acceptance-574f158da6891e3e",
+      "kind": "acceptance",
+      "text": "We use numbers and shapes in maths.",
+      "file": "acceptance-574f158da6891e3e.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "acceptance-582df3efd4b39b5b",
+      "kind": "acceptance",
+      "text": "Ben sits next to me, so he is my classmate.",
+      "file": "acceptance-582df3efd4b39b5b.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "acceptance-61a06c0cc8d4d6fb",
+      "kind": "acceptance",
+      "text": "Ms. Wang asks us to sing a song in English.",
+      "file": "acceptance-61a06c0cc8d4d6fb.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "acceptance-7a53a8ce5b18451c",
+      "kind": "acceptance",
+      "text": "A girl in a yellow dress is waiting for her mother.",
+      "file": "acceptance-7a53a8ce5b18451c.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "acceptance-80447a126804472a",
+      "kind": "acceptance",
+      "text": "We do a simple experiment in science class.",
+      "file": "acceptance-80447a126804472a.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "acceptance-a336223d2b71fcb6",
+      "kind": "acceptance",
+      "text": "Grandma reads a funny story to the children.",
+      "file": "acceptance-a336223d2b71fcb6.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "acceptance-b12090f243058926",
+      "kind": "acceptance",
+      "text": "We type a letter on a computer in IT class.",
+      "file": "acceptance-b12090f243058926.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "acceptance-d5a69a21cb49964a",
+      "kind": "acceptance",
+      "text": "These photos show scenes from everyday life.",
+      "file": "acceptance-d5a69a21cb49964a.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "acceptance-e1968f2864bea963",
+      "kind": "acceptance",
+      "text": "Art is the subject I enjoy most this term.",
+      "file": "acceptance-e1968f2864bea963.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "acceptance-ecf70b096ba5c9bb",
+      "kind": "acceptance",
+      "text": "Tom likes football, and he also likes basketball.",
+      "file": "acceptance-ecf70b096ba5c9bb.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "acceptance-2e8d87f0d15d6aa9",
+      "kind": "acceptance",
+      "text": "The English lesson starts at nine.",
+      "file": "acceptance-2e8d87f0d15d6aa9.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "acceptance-2f7fc227db2f8d94",
+      "kind": "acceptance",
+      "text": "We visit the science museum on Saturday.",
+      "file": "acceptance-2f7fc227db2f8d94.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "acceptance-3071c6acffda6c8c",
+      "kind": "acceptance",
+      "text": "My grandparent makes dumplings with me.",
+      "file": "acceptance-3071c6acffda6c8c.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "acceptance-4287327e79838b9c",
+      "kind": "acceptance",
+      "text": "We have a music class on Monday morning.",
+      "file": "acceptance-4287327e79838b9c.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "acceptance-516599a0a57fcdb2",
+      "kind": "acceptance",
+      "text": "The school art show opens on Friday.",
+      "file": "acceptance-516599a0a57fcdb2.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "acceptance-6d58895453dcdc58",
+      "kind": "acceptance",
+      "text": "The word with means together with another person.",
+      "file": "acceptance-6d58895453dcdc58.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "acceptance-7e396b2c2f9e0065",
+      "kind": "acceptance",
+      "text": "Mia joins the reading club after school.",
+      "file": "acceptance-7e396b2c2f9e0065.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "acceptance-a440f71687c94f43",
+      "kind": "acceptance",
+      "text": "Tom plays the piano for his family.",
+      "file": "acceptance-a440f71687c94f43.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "acceptance-a4b25db76b0246ac",
+      "kind": "acceptance",
+      "text": "We visit our neighbour after lunch.",
+      "file": "acceptance-a4b25db76b0246ac.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "acceptance-a5190d9356936edf",
+      "kind": "acceptance",
+      "text": "Lily has a swimming lesson on Thursday.",
+      "file": "acceptance-a5190d9356936edf.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "acceptance-acf14114f7d82fc7",
+      "kind": "acceptance",
+      "text": "Our school library is closed every Wednesday.",
+      "file": "acceptance-acf14114f7d82fc7.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "acceptance-c4237248005ecfd1",
+      "kind": "acceptance",
+      "text": "My family takes a walk in the park on Sunday.",
+      "file": "acceptance-c4237248005ecfd1.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "acceptance-d743c3f5a10df56d",
+      "kind": "acceptance",
+      "text": "The children dance around the garden in spring.",
+      "file": "acceptance-d743c3f5a10df56d.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "acceptance-ddca170099063b10",
+      "kind": "acceptance",
+      "text": "There are seven days in one week.",
+      "file": "acceptance-ddca170099063b10.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "acceptance-e152dc17f837e83f",
+      "kind": "acceptance",
+      "text": "Our class reads together every Tuesday.",
+      "file": "acceptance-e152dc17f837e83f.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "acceptance-07cedf21eb703563",
+      "kind": "acceptance",
+      "text": "The clever child solves the puzzle quickly.",
+      "file": "acceptance-07cedf21eb703563.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "acceptance-1195fec91cb2c392",
+      "kind": "acceptance",
+      "text": "The water in the pool feels cool.",
+      "file": "acceptance-1195fec91cb2c392.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "acceptance-11a7acb1ea118035",
+      "kind": "acceptance",
+      "text": "A bird builds a nest in the tall tree.",
+      "file": "acceptance-11a7acb1ea118035.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "acceptance-19eb00d9c48019dc",
+      "kind": "acceptance",
+      "text": "The soup is too hot to drink now.",
+      "file": "acceptance-19eb00d9c48019dc.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "acceptance-24e9cbcb75d5a2bd",
+      "kind": "acceptance",
+      "text": "My hands are cold without gloves.",
+      "file": "acceptance-24e9cbcb75d5a2bd.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "acceptance-2fd7ce5323ee1247",
+      "kind": "acceptance",
+      "text": "We climb the steps to the temple.",
+      "file": "acceptance-2fd7ce5323ee1247.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "acceptance-3c58683ad2c4dc67",
+      "kind": "acceptance",
+      "text": "They ski down the mountain in winter.",
+      "file": "acceptance-3c58683ad2c4dc67.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "acceptance-3d46737b1478c4f1",
+      "kind": "acceptance",
+      "text": "Bees come out when spring arrives.",
+      "file": "acceptance-3d46737b1478c4f1.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "acceptance-552964c9834bb585",
+      "kind": "acceptance",
+      "text": "We pick apples in autumn.",
+      "file": "acceptance-552964c9834bb585.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "acceptance-55c64ce108632065",
+      "kind": "acceptance",
+      "text": "Geese fly south before winter.",
+      "file": "acceptance-55c64ce108632065.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "acceptance-5f028bf81bb3a083",
+      "kind": "acceptance",
+      "text": "A yellow flower opens beside the gate.",
+      "file": "acceptance-5f028bf81bb3a083.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "acceptance-61efe231f3a861b5",
+      "kind": "acceptance",
+      "text": "Winter is a quiet season in my town.",
+      "file": "acceptance-61efe231f3a861b5.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "acceptance-6fd1451aa69fe139",
+      "kind": "acceptance",
+      "text": "White snow covers the roof.",
+      "file": "acceptance-6fd1451aa69fe139.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "acceptance-90b300a560314b87",
+      "kind": "acceptance",
+      "text": "The garden is colourful after the spring rain.",
+      "file": "acceptance-90b300a560314b87.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "acceptance-9e429f2cfe283b35",
+      "kind": "acceptance",
+      "text": "We plant seeds in the school garden.",
+      "file": "acceptance-9e429f2cfe283b35.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "acceptance-aa655a8486fd02a1",
+      "kind": "acceptance",
+      "text": "We swim in the pool after school.",
+      "file": "acceptance-aa655a8486fd02a1.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "acceptance-acbdfa238c406f79",
+      "kind": "acceptance",
+      "text": "A sheep is eating grass on the hill.",
+      "file": "acceptance-acbdfa238c406f79.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "acceptance-c6da40248172bd4c",
+      "kind": "acceptance",
+      "text": "The sun makes the room warm.",
+      "file": "acceptance-c6da40248172bd4c.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "acceptance-d43fdb38ca6b1a6c",
+      "kind": "acceptance",
+      "text": "The lake is cold in winter.",
+      "file": "acceptance-d43fdb38ca6b1a6c.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "acceptance-e165c2274b67f627",
+      "kind": "acceptance",
+      "text": "The wind lifts my kite high.",
+      "file": "acceptance-e165c2274b67f627.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "acceptance-f5ca1e4948c8981a",
+      "kind": "acceptance",
+      "text": "The days are long in summer.",
+      "file": "acceptance-f5ca1e4948c8981a.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "acceptance-00763aed7e46cc2b",
+      "kind": "acceptance",
+      "text": "We care for the rabbit every day.",
+      "file": "acceptance-00763aed7e46cc2b.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "acceptance-104ebe15571bda3c",
+      "kind": "acceptance",
+      "text": "Please put on a warm hat before you leave.",
+      "file": "acceptance-104ebe15571bda3c.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "acceptance-19c3346ee64ba4bc",
+      "kind": "acceptance",
+      "text": "The road is hard to see on a foggy morning.",
+      "file": "acceptance-19c3346ee64ba4bc.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "acceptance-1e86f8e1bc2facee",
+      "kind": "acceptance",
+      "text": "The beach is windy in the afternoon.",
+      "file": "acceptance-1e86f8e1bc2facee.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "acceptance-263e2e90bfa52f0e",
+      "kind": "acceptance",
+      "text": "Please take your bag with you.",
+      "file": "acceptance-263e2e90bfa52f0e.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "acceptance-2b4e1c5828322b39",
+      "kind": "acceptance",
+      "text": "The sky becomes cloudy before the storm.",
+      "file": "acceptance-2b4e1c5828322b39.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "acceptance-44de9030bcf22134",
+      "kind": "acceptance",
+      "text": "I am sorry for losing your pen.",
+      "file": "acceptance-44de9030bcf22134.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "acceptance-4a8e9bb436dce611",
+      "kind": "acceptance",
+      "text": "We play ping-pong in the school gym.",
+      "file": "acceptance-4a8e9bb436dce611.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "acceptance-545bd7eeae19f168",
+      "kind": "acceptance",
+      "text": "We read books at home on a rainy day.",
+      "file": "acceptance-545bd7eeae19f168.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "acceptance-593236372c0e5344",
+      "kind": "acceptance",
+      "text": "The sky is sunny after the rain.",
+      "file": "acceptance-593236372c0e5344.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "acceptance-5c99c544a7a7e37b",
+      "kind": "acceptance",
+      "text": "I can't open the window because it is locked.",
+      "file": "acceptance-5c99c544a7a7e37b.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "acceptance-7dd0b641087e2916",
+      "kind": "acceptance",
+      "text": "All the players wear blue shirts.",
+      "file": "acceptance-7dd0b641087e2916.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "acceptance-8ea137d7fb0a61b9",
+      "kind": "acceptance",
+      "text": "The weather is cold and windy this morning.",
+      "file": "acceptance-8ea137d7fb0a61b9.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "acceptance-9dfed4150bea464c",
+      "kind": "acceptance",
+      "text": "When everything is fine, we can say all right.",
+      "file": "acceptance-9dfed4150bea464c.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "acceptance-ac078e6338f5fd43",
+      "kind": "acceptance",
+      "text": "The weather report says it will snow tomorrow.",
+      "file": "acceptance-ac078e6338f5fd43.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "acceptance-c9394fddf9e2444b",
+      "kind": "acceptance",
+      "text": "The train to Lhasa leaves at six.",
+      "file": "acceptance-c9394fddf9e2444b.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "acceptance-cf53603455f45e70",
+      "kind": "acceptance",
+      "text": "Please take care when you cross the busy road.",
+      "file": "acceptance-cf53603455f45e70.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "acceptance-e648243067dedff6",
+      "kind": "acceptance",
+      "text": "The children make a snowman on a snowy day.",
+      "file": "acceptance-e648243067dedff6.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "acceptance-f0309f15dc504f03",
+      "kind": "acceptance",
+      "text": "Heavy rain fills the street with water.",
+      "file": "acceptance-f0309f15dc504f03.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "acceptance-01341ee938986d1e",
+      "kind": "acceptance",
+      "text": "He throws the basketball into the basket.",
+      "file": "acceptance-01341ee938986d1e.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "acceptance-164cbc79d6ff58db",
+      "kind": "acceptance",
+      "text": "He hits the drum in time with the song.",
+      "file": "acceptance-164cbc79d6ff58db.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "acceptance-1f4357d12c623baa",
+      "kind": "acceptance",
+      "text": "Taking photos is my new hobby.",
+      "file": "acceptance-1f4357d12c623baa.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "acceptance-23b58008280d2a6c",
+      "kind": "acceptance",
+      "text": "Each student has a different favourite sport.",
+      "file": "acceptance-23b58008280d2a6c.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "acceptance-2898f2ac4c81af27",
+      "kind": "acceptance",
+      "text": "Mia gives me a red paper-cut of a rabbit.",
+      "file": "acceptance-2898f2ac4c81af27.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "acceptance-3cb9b9e80f5ff3d8",
+      "kind": "acceptance",
+      "text": "Our class learns paper-cutting from a local artist.",
+      "file": "acceptance-3cb9b9e80f5ff3d8.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "acceptance-3ef929d991e1652d",
+      "kind": "acceptance",
+      "text": "Would you like to join our art group?",
+      "file": "acceptance-3ef929d991e1652d.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "acceptance-45cc71d5b7ee7185",
+      "kind": "acceptance",
+      "text": "The girls skip rope in the playground.",
+      "file": "acceptance-45cc71d5b7ee7185.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "acceptance-5b83a9a2c6f5c853",
+      "kind": "acceptance",
+      "text": "My uncle drives us to the train station.",
+      "file": "acceptance-5b83a9a2c6f5c853.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "acceptance-77fbec38392cd56c",
+      "kind": "acceptance",
+      "text": "We get ready for the school show after lunch.",
+      "file": "acceptance-77fbec38392cd56c.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "acceptance-78ee92350f249273",
+      "kind": "acceptance",
+      "text": "She plays the violin very well.",
+      "file": "acceptance-78ee92350f249273.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "acceptance-9c7483959918ced3",
+      "kind": "acceptance",
+      "text": "The class plans a surprise party for our teacher.",
+      "file": "acceptance-9c7483959918ced3.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "acceptance-b5e72c00f9291547",
+      "kind": "acceptance",
+      "text": "My aunt bakes a cake for the family.",
+      "file": "acceptance-b5e72c00f9291547.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "acceptance-df062e147500c7d3",
+      "kind": "acceptance",
+      "text": "We run around the track twice.",
+      "file": "acceptance-df062e147500c7d3.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "acceptance-f06a9dbecd5ce5c0",
+      "kind": "acceptance",
+      "text": "The dancer practises every afternoon.",
+      "file": "acceptance-f06a9dbecd5ce5c0.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "acceptance-0562b4031613c1e0",
+      "kind": "acceptance",
+      "text": "She will wear a red dress to the party.",
+      "file": "acceptance-0562b4031613c1e0.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "acceptance-0bc61fa54e93176d",
+      "kind": "acceptance",
+      "text": "A tall man carries the box for us.",
+      "file": "acceptance-0bc61fa54e93176d.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "acceptance-1313a95a7975cb23",
+      "kind": "acceptance",
+      "text": "The students cheer for the runners.",
+      "file": "acceptance-1313a95a7975cb23.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "acceptance-1ce0f6746e5daa73",
+      "kind": "acceptance",
+      "text": "The artist draws a bird in the sand.",
+      "file": "acceptance-1ce0f6746e5daa73.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "acceptance-2ac117795a7d3906",
+      "kind": "acceptance",
+      "text": "We paint a wall with bright colours.",
+      "file": "acceptance-2ac117795a7d3906.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "acceptance-2f51d1de824d0ac8",
+      "kind": "acceptance",
+      "text": "The policeman directs traffic at the crossing.",
+      "file": "acceptance-2f51d1de824d0ac8.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "acceptance-3d5e8b63ef57c76b",
+      "kind": "acceptance",
+      "text": "The bus station is across from the post office.",
+      "file": "acceptance-3d5e8b63ef57c76b.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "acceptance-4235edb8c164c4ba",
+      "kind": "acceptance",
+      "text": "The businessman opens a small shop near the station.",
+      "file": "acceptance-4235edb8c164c4ba.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "acceptance-468c2ff45928a700",
+      "kind": "acceptance",
+      "text": "The lost child waits at the police station.",
+      "file": "acceptance-468c2ff45928a700.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "acceptance-46e7af67cbd2a6ca",
+      "kind": "acceptance",
+      "text": "Tom needs a pencil, so I give one to him.",
+      "file": "acceptance-46e7af67cbd2a6ca.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "acceptance-546408c8a4beed55",
+      "kind": "acceptance",
+      "text": "The third-person singular form of have is has.",
+      "file": "acceptance-546408c8a4beed55.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "acceptance-6d192b07bf8a334f",
+      "kind": "acceptance",
+      "text": "The music room is over there, beside the library.",
+      "file": "acceptance-6d192b07bf8a334f.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "acceptance-7ced426e82fd61cd",
+      "kind": "acceptance",
+      "text": "The police ask people to stay safe.",
+      "file": "acceptance-7ced426e82fd61cd.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "acceptance-8570e122f9430d0b",
+      "kind": "acceptance",
+      "text": "My grandpa reads the newspaper after breakfast.",
+      "file": "acceptance-8570e122f9430d0b.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "acceptance-8619a8f0f46b863a",
+      "kind": "acceptance",
+      "text": "The woman in the green jacket is our coach.",
+      "file": "acceptance-8619a8f0f46b863a.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "acceptance-89adaee4b214c60d",
+      "kind": "acceptance",
+      "text": "The nurse walks to the hospital at seven.",
+      "file": "acceptance-89adaee4b214c60d.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "acceptance-8d1d78b14b03e100",
+      "kind": "acceptance",
+      "text": "Look over there, the science book is on the desk.",
+      "file": "acceptance-8d1d78b14b03e100.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "acceptance-a4d8e106f18250c4",
+      "kind": "acceptance",
+      "text": "Which picture do you like, the red one or the blue one?",
+      "file": "acceptance-a4d8e106f18250c4.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "acceptance-b0bb54547898ad9b",
+      "kind": "acceptance",
+      "text": "The farmer feeds the chickens every morning.",
+      "file": "acceptance-b0bb54547898ad9b.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "acceptance-b7e77dd8fb225698",
+      "kind": "acceptance",
+      "text": "We sleep in a quiet hotel near the sea.",
+      "file": "acceptance-b7e77dd8fb225698.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "acceptance-c3375e9bb6da1062",
+      "kind": "acceptance",
+      "text": "Mia ties her long hair with a blue ribbon.",
+      "file": "acceptance-c3375e9bb6da1062.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "acceptance-c7aa1268c6c7537a",
+      "kind": "acceptance",
+      "text": "Every member brings a book to the reading club.",
+      "file": "acceptance-c7aa1268c6c7537a.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "acceptance-f01c2f8b2ce18033",
+      "kind": "acceptance",
+      "text": "The gardener waters the flowers at noon.",
+      "file": "acceptance-f01c2f8b2ce18033.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "acceptance-f0859453ceed3472",
+      "kind": "acceptance",
+      "text": "We fly a kite in the park on Sunday.",
+      "file": "acceptance-f0859453ceed3472.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "acceptance-fdd6d0a1ed47ef3e",
+      "kind": "acceptance",
+      "text": "The old clock is a beautiful piece of work.",
+      "file": "acceptance-fdd6d0a1ed47ef3e.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "acceptance-083f08b11444135d",
+      "kind": "acceptance",
+      "text": "Good communication makes group work easier.",
+      "file": "acceptance-083f08b11444135d.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "acceptance-0e63cdbd8b7fd606",
+      "kind": "acceptance",
+      "text": "Please speak to the visitors in English.",
+      "file": "acceptance-0e63cdbd8b7fd606.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "acceptance-0e894c332d6e99aa",
+      "kind": "acceptance",
+      "text": "The concert will begin at seven o'clock.",
+      "file": "acceptance-0e894c332d6e99aa.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "acceptance-16cecada3c1b3d0b",
+      "kind": "acceptance",
+      "text": "A white horse stands under the tree.",
+      "file": "acceptance-16cecada3c1b3d0b.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "acceptance-2773c8ba9512d3ef",
+      "kind": "acceptance",
+      "text": "Our school has a sports day every year.",
+      "file": "acceptance-2773c8ba9512d3ef.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "acceptance-343f5901c73775bd",
+      "kind": "acceptance",
+      "text": "We watch horse racing at the sports park.",
+      "file": "acceptance-343f5901c73775bd.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "acceptance-470c40c1353bfa9a",
+      "kind": "acceptance",
+      "text": "Tom writes a thank-you card for his teacher.",
+      "file": "acceptance-470c40c1353bfa9a.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "acceptance-4e7a740a93d3e3d2",
+      "kind": "acceptance",
+      "text": "Are you sure that the library is open?",
+      "file": "acceptance-4e7a740a93d3e3d2.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "acceptance-531c0e9ec6a6227f",
+      "kind": "acceptance",
+      "text": "I send a short email to my cousin.",
+      "file": "acceptance-531c0e9ec6a6227f.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "acceptance-5757ba05734a9079",
+      "kind": "acceptance",
+      "text": "We get ready for the picnic before nine.",
+      "file": "acceptance-5757ba05734a9079.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "acceptance-5a51c8d1567b72bc",
+      "kind": "acceptance",
+      "text": "The school hosts a boat racing on the river.",
+      "file": "acceptance-5a51c8d1567b72bc.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "acceptance-664540e1a14dd22c",
+      "kind": "acceptance",
+      "text": "Mia writes a letter to her pen friend.",
+      "file": "acceptance-664540e1a14dd22c.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "acceptance-699284006e9c0226",
+      "kind": "acceptance",
+      "text": "The class meets online on Friday afternoon.",
+      "file": "acceptance-699284006e9c0226.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "acceptance-6ec90ffccf305402",
+      "kind": "acceptance",
+      "text": "Please hold on while I write down the number.",
+      "file": "acceptance-6ec90ffccf305402.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "acceptance-73081b15400b9a50",
+      "kind": "acceptance",
+      "text": "Please write your answer on the paper.",
+      "file": "acceptance-73081b15400b9a50.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "acceptance-9d20b4789c45dd12",
+      "kind": "acceptance",
+      "text": "We invite our parents to the class show.",
+      "file": "acceptance-9d20b4789c45dd12.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "acceptance-9e8ec55121148ec5",
+      "kind": "acceptance",
+      "text": "I will call my friend after dinner.",
+      "file": "acceptance-9e8ec55121148ec5.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "acceptance-acb21106be913baa",
+      "kind": "acceptance",
+      "text": "A smile is a friendly way to greet someone.",
+      "file": "acceptance-acb21106be913baa.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "acceptance-afc6898362179a6d",
+      "kind": "acceptance",
+      "text": "You may use my ruler during the lesson.",
+      "file": "acceptance-afc6898362179a6d.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "acceptance-b18ac35070224b4e",
+      "kind": "acceptance",
+      "text": "Please send the photo to Grandpa.",
+      "file": "acceptance-b18ac35070224b4e.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "acceptance-bfd8741579368e73",
+      "kind": "acceptance",
+      "text": "The crosstalk makes the children laugh.",
+      "file": "acceptance-bfd8741579368e73.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "acceptance-c2256528385426b0",
+      "kind": "acceptance",
+      "text": "Mia has a good idea for the school fair.",
+      "file": "acceptance-c2256528385426b0.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "acceptance-d871fb64260ab4b0",
+      "kind": "acceptance",
+      "text": "They will hold a meeting in the library.",
+      "file": "acceptance-d871fb64260ab4b0.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "acceptance-d8fbd611547cd9b5",
+      "kind": "acceptance",
+      "text": "Mia opens the invitation and reads the time.",
+      "file": "acceptance-d8fbd611547cd9b5.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "story-57ba5e9cc976ec6a",
+      "kind": "story",
+      "text": "Today the class goes to the computer room. They study science with a short video. In IT, Mia makes a poster. Tom also makes one.",
+      "file": "story-57ba5e9cc976ec6a.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "story-5b71a1974a2fddbf",
+      "kind": "story",
+      "text": "A new school day begins. A girl smiles at Mia. Her classmate waves, and everyone says good morning. They talk about life at school.",
+      "file": "story-5b71a1974a2fddbf.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "story-c246a7c602f6a291",
+      "kind": "story",
+      "text": "After class, Mia uses a computer to find a story. The story is about a clever bird. She reads it to the class.",
+      "file": "story-c246a7c602f6a291.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "story-f341f206c32790d4",
+      "kind": "story",
+      "text": "The first subject is English. The next subject is Chinese. In maths, the class counts apples. Mia says that every subject is interesting.",
+      "file": "story-f341f206c32790d4.mp3",
+      "sources": [
+        "v2.1-unit1"
+      ]
+    },
+    {
+      "id": "story-33497ff25f7cfedf",
+      "kind": "story",
+      "text": "At the music club, children dance to a happy song. Mia has a piano lesson next. She plays one tune for the club.",
+      "file": "story-33497ff25f7cfedf.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "story-b88e20cd16294079",
+      "kind": "story",
+      "text": "Thursday is quiet after school. Friday brings the art show. On Saturday, Mia visits a museum. Sunday is a day for family.",
+      "file": "story-b88e20cd16294079.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "story-d077ef6c35724729",
+      "kind": "story",
+      "text": "A busy week begins on Monday. Mia reads a book on Tuesday. On Wednesday, she brings it back to the library.",
+      "file": "story-d077ef6c35724729.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "story-e49ef5dc1c5a47c3",
+      "kind": "story",
+      "text": "Mia goes with her parents to visit her grandparent. They cook, talk and take a walk together.",
+      "file": "story-e49ef5dc1c5a47c3.mp3",
+      "sources": [
+        "v2.1-unit2"
+      ]
+    },
+    {
+      "id": "story-1f0736774d1c86ff",
+      "kind": "story",
+      "text": "The morning air is cool. By noon, the sun is hot. The room stays warm in the afternoon. At night it is cold, and snow begins to fall.",
+      "file": "story-1f0736774d1c86ff.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "story-8c995ea10fe1e216",
+      "kind": "story",
+      "text": "Each season brings a colourful change. Spring is fresh, summer is bright and autumn is golden. Winter turns the town white.",
+      "file": "story-8c995ea10fe1e216.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "story-c495e7041388fe9b",
+      "kind": "story",
+      "text": "We plant seeds beside the old tree. A flower opens near the gate, and sheep walk up the green hill.",
+      "file": "story-c495e7041388fe9b.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "story-fa6be4f14ff70f1a",
+      "kind": "story",
+      "text": "A clever child makes a kite and watches it fly. In summer we swim; in winter we ski and climb the snowy hill.",
+      "file": "story-fa6be4f14ff70f1a.mp3",
+      "sources": [
+        "v2.1-unit3"
+      ]
+    },
+    {
+      "id": "story-51f7bb33d6de6740",
+      "kind": "story",
+      "text": "On a snowy day, Mia will put on a thick coat. It is foggy, so the bus driver can't go fast. On a rainy day, she stays inside.",
+      "file": "story-51f7bb33d6de6740.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "story-a377931f408e86e1",
+      "kind": "story",
+      "text": "Mia is sorry that she cannot go to Lhasa today. Grandpa tells her to take a map and care for her ticket. She says she will take care on the train.",
+      "file": "story-a377931f408e86e1.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "story-c4d4733135103a2a",
+      "kind": "story",
+      "text": "Rain falls in the afternoon. All the students wait in the gym. They play ping-pong, and everyone is all right.",
+      "file": "story-c4d4733135103a2a.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "story-e5ce0e0eeca46103",
+      "kind": "story",
+      "text": "The morning is sunny, but the sky soon becomes cloudy. The weather report says it will be windy. Mia watches the report before school.",
+      "file": "story-e5ce0e0eeca46103.mp3",
+      "sources": [
+        "v2.1-unit4"
+      ]
+    },
+    {
+      "id": "story-b521ce4cda6d9df1",
+      "kind": "story",
+      "text": "Mia decides to join the class show. Everyone must get ready after lunch. They practise well, then enjoy a small party.",
+      "file": "story-b521ce4cda6d9df1.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "story-b730a955da5659a0",
+      "kind": "story",
+      "text": "Every child has a different hobby. Mia likes to run. Ben plays basketball, and Lily can skip all afternoon.",
+      "file": "story-b730a955da5659a0.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "story-cf33c4c43a63832a",
+      "kind": "story",
+      "text": "Mia's uncle brings fruit, and her aunt brings a cake. They stay for tea and talk about their hobbies.",
+      "file": "story-cf33c4c43a63832a.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "story-e0b540c5927632d4",
+      "kind": "story",
+      "text": "A dancer moves to the beat of a drum. An artist makes a paper-cut of a red flower. Paper-cutting is a traditional art.",
+      "file": "story-e0b540c5927632d4.mp3",
+      "sources": [
+        "v2.1-unit5"
+      ]
+    },
+    {
+      "id": "story-37a5f7c06a2bee36",
+      "kind": "story",
+      "text": "A new member has a red bag and long hair. Her bag is over there, beside the door. We cheer for her, and Mia shows him where to sit.",
+      "file": "story-37a5f7c06a2bee36.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "story-6a47b0394299d68b",
+      "kind": "story",
+      "text": "The artist will show which painting is new. Mia will wear a blue shirt and paint a flower. Her work hangs by the window.",
+      "file": "story-6a47b0394299d68b.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "story-976eb18d32dcc966",
+      "kind": "story",
+      "text": "Grandpa walks past the station and the police station. He meets a gardener near the hotel. A woman waves to them from the park.",
+      "file": "story-976eb18d32dcc966.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "story-cb3750757b9d9723",
+      "kind": "story",
+      "text": "A businessman opens the shop. A farmer brings vegetables to the hospital. A tall man asks a policeman for help, and the police show him the way.",
+      "file": "story-cb3750757b9d9723.mp3",
+      "sources": [
+        "v2.1-unit6"
+      ]
+    },
+    {
+      "id": "story-22e6c4af7e141ed0",
+      "kind": "story",
+      "text": "The club will hold a party this year. Mia invites three new members and gives each one an invitation. Please hold on while she finds one more.",
+      "file": "story-22e6c4af7e141ed0.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "story-64aed7091b7aee59",
+      "kind": "story",
+      "text": "On Saturday, Mia will send a letter and call her cousin. The family meets online before the horse racing begins. A white horse races past. Later they watch crosstalk, and Mia is sure everyone had fun.",
+      "file": "story-64aed7091b7aee59.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "story-c1fd4828b00672d1",
+      "kind": "story",
+      "text": "Mia thinks of a kind way to welcome the visitors. Good communication starts with listening. The visitors may ask questions, and the students speak slowly.",
+      "file": "story-c1fd4828b00672d1.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    },
+    {
+      "id": "story-dca36b628fe049d3",
+      "kind": "story",
+      "text": "Mia has an idea for the class card. She will write a note and send an email. Everyone must get ready before the teacher arrives.",
+      "file": "story-dca36b628fe049d3.mp3",
+      "sources": [
+        "v2.1-unit7"
+      ]
+    }
+  ]
+}

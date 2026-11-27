@@ -1,0 +1,50 @@
+# 单词星球 2.1 · 鲁教版四年级英语上册
+
+面向四年级上册的独立词汇训练站，全部内容来自 `data/知识闪记-鲁教版4年级英语 上册单词表V5-修正版.xlsx`。
+
+## 成品规模
+
+- 7 个学习单元
+- 133 个词条
+- 798 道学习题
+- 426 条固定微软英式语音 MP3
+- 音色：`en-GB-SoniaNeural`，语速 `-8%`
+
+每页包含英译中、听音辨义、听音选词、中译英四轮基础训练、四幕语境故事、语境训练、最终验收和成绩单。
+
+## 单元入口
+
+| 单元 | 词条数 | 页面 |
+| --- | ---: | --- |
+| Unit 1 · School Life | 14 | [开始学习](outputs/v2.1-unit1/index.html) |
+| Unit 2 · My Week | 15 | [开始学习](outputs/v2.1-unit2/index.html) |
+| Unit 3 · Seasons | 21 | [开始学习](outputs/v2.1-unit3/index.html) |
+| Unit 4 · Weather | 19 | [开始学习](outputs/v2.1-unit4/index.html) |
+| Unit 5 · Hobbies | 15 | [开始学习](outputs/v2.1-unit5/index.html) |
+| Unit 6 · People and Places | 25 | [开始学习](outputs/v2.1-unit6/index.html) |
+| Unit 7 · Communication | 24 | [开始学习](outputs/v2.1-unit7/index.html) |
+
+## 本地验证
+
+```powershell
+python tools\prepare_grade4_data.py
+python tools\build_grade4.py
+python -m unittest tests.test_grade4_data tests.test_audio_catalog tests.test_audio_assets tests.test_audio_tool tests.test_deployment -v
+node --test tests\test_grade4_site.js
+node tests\browser_smoke.js
+```
+
+浏览器验收截图保存在 `tests/browser-output/`。
+
+## 固定语音
+
+- 音频目录：`outputs/assets/audio/v2.1/en-GB-SoniaNeural/`
+- 清单：`manifest.json`
+- 类型：`word`、`training`、`acceptance`、`story`
+- 页面只通过固定 MP3 播放，不依赖设备 `speechSynthesis`
+
+重新生成语音：
+
+```powershell
+python tools\generate_fixed_audio.py
+```
